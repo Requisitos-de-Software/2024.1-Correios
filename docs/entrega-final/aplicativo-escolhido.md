@@ -56,7 +56,7 @@ Não há restrições em relação ao uso de imagem e estudo do aplicativo para 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 07/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Ricardo A.][RicardoGH] |
+| `1.0`  | 07/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Ricardo Augusto][RicardoGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc

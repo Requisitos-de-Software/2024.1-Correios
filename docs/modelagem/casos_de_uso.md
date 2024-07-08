@@ -42,7 +42,7 @@ Acesse a imagem nesse [link](../assets/modelagem/use-case/diagrama-caso-uso.svg)
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Cláudio][ClaudioGH], [Danilo Carvalho][DaniloGH], [Elias][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH], [Ricardo][RicardoGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Cláudio][ClaudioGH], [Danilo Carvalho][DaniloGH], [Elias][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH], [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ## Especificação dos casos de uso
 
@@ -64,7 +64,7 @@ A especificação dos casos de uso é uma técnica utilizada para descrever deta
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo][RicardoGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ### 1. Calcular preços e prazos de entrega
 
