@@ -158,14 +158,22 @@ Legendas:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`    | 24/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [Ricardo Augusto](https://www.github.com/avmricardo) |
-| `1.1`    | 20/05/2024 | Adiciona requisitos da análise documental | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [](https://www.github.com/) |
-| `2.0`    | 01/07/2024 | Atualização da tabela | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [](https://www.github.com/) |
+| `1.1`    | 20/05/2024 | Adiciona requisitos da análise documental | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [Elias F. Oliveira][EliasGH] |
+| `2.0`    | 01/07/2024 | Atualização da tabela | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [Elias F. Oliveira][EliasGH] |
+
+[ClaudioGH]: https://github.com/claudiohsc
+[DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
 
 <Links das seções da análise documental>
 [ADRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental
 [ADRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental
 
-<Links das seções do brainstorm>
+</Links das seções do brainstorm>
 [BSRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
 [BSRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
 
@@ -173,6 +181,6 @@ Legendas:
 [OBSRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/#requisitos-nao-funcionais-rnf
 [OBSRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/#requisitos-funcionais-rf
 
-<Links das seções do questionário>
+</Links das seções do questionário>
 [QRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais
 [QRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#nao-funcionais
