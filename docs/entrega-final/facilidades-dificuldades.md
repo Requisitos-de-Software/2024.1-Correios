@@ -31,7 +31,7 @@ Durante o projeto, a maior facilidade que observei foi o planejamento geral da d
 
 #### **Pablo Santos**
 
-
+Durante o projeto, tive facilidades principalmente na comunicação e entendimento entre os membros do grupo, o que foi possível devido ao fato de estarmos no mesmo grupo em outra disciplina. Além disso, a divisão igualitária das tarefas entre os integrantes do grupo contribuiu para que nenhum membro fosse sobrecarregado.
 
 #### **Ricardo Augusto**
 
