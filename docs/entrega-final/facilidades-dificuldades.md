@@ -60,7 +60,7 @@ Eu acredito que a maior dificuldade foi o gerenciamento do tempo que tínhamos p
 
 #### **Pablo Santos**
 
-
+Durante o projeto, tive desafios significativos, principalmente relacionados ao gerenciamento do tempo. A greve dos professores resultou em alterações no calendário acadêmico, o que afetou diretamente o planejamento das entregas. Essa situação atípica exigiu adaptações rápidas, e comprometeu a capacidade de realizar ou revisar os artefatos conforme desejado. A coordenação entre as disciplinas de Requisitos de Software e IHC também se tornou mais complexa, aumentando a demanda de tempo para produzir artefatos de qualidade.
 
 #### **Ricardo Augusto**
 
