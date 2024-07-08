@@ -9,13 +9,32 @@ Na tabela 1 é possíver as técnicas utilizadas relacionando-as com a entrega e
 
 <font size="2"><p style="text-align: center">Tabela 1 - Tabela de técnicas utilizadas.</p></font>
 
+<center>
 
 | Entrega | Artefato | Técnica(s) Utilizada(s)| Responsáveis|
 |:---:|:---:|:---:|:---:|
 | Pré-Rastreabilidade | [Rich Picture](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/richpicture/)| [Rich Picture](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/richpicture/) | [Claudio H.][ClaudioGH]|
 | Pré-Rastreabilidade | [Aplicativos Avaliados](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/appsavaliados/)| [Rich Picture]((https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/appsavaliados/)) | [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
-|Elicitação| [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/perfil_de_usuario/perfil_de_usuario/)| [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/) | [Elias F. Oliveira][EliasGH] |
-|Elicitação | [Personas](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/personas/)| [Personas](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/personas/)| [Pablo S. Costa][PabloGH]|
+|Elicitação de Requisitos| [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/perfil_de_usuario/perfil_de_usuario/)| [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/) | [Elias F. Oliveira][EliasGH] |
+|Elicitação de Requisitos | [Personas](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/personas/)| [Personas](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/personas/)| [Pablo S. Costa][PabloGH]|
+|Elicitação de Requisitos | [Técnicas - Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/)|  [Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/) | [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH]|
+|Elicitação de Requisitos | [Técnicas - Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/)| [Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/) | [Claudio H.][ClaudioGH] e [Elias F. Oliveira][EliasGH] |
+|Elicitação de Requisitos | [Técnicas - Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/)| [Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/) | [Danilo C.][DaniloGH] e [Ricardo Augusto][RicardoGH]|
+|Elicitação de Requisitos | [Técnicas - Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)|  [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/) |[Gabriel B. Bertolazi][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH]|
+|Elicitação de Requisitos | [Priorização - $100](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/%24100/)|  [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/) |[Gabriel B. Bertolazi][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH]|
+|Elicitação de Requisitos | [Priorização - First Things First](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/firstThingsFirst/)|  [First Things First](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/firstThingsFirst/) |[Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH]|
+|Elicitação de Requisitos | [Priorização - In or Out](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/inorout/)|  [In or Out](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/inorout/) | [Claudio H.][ClaudioGH] e [Danilo C.][DaniloGH]|
+|Modelagem de Requisitos | [Cenários](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/cenarios/)|  [Cenários](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/cenarios/) | [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH]|
+|Modelagem de Requisitos | [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/)|  [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/) | [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH]|
+|Modelagem de Requisitos | [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/validacao/)|   [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/) | [Claudio H.][ClaudioGH] e [Pablo S. Costa][PabloGH]|
+|Modelagem de Requisitos | [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/)|  [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e FURPS+| [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH]|
+|Modelagem de Requisitos | [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/) |  [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/)| [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH]|
+
+
+
+
+
+
 |Análise de Requisitos| [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) |[Grupo de Foco](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/#grupo-de-foco), [Questionário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/#resultados-do-formulario) | [Claudio H.][ClaudioGH] e [Elias F. Oliveira][EliasGH] |
 
 |Análise de Requisitos | [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/)| [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/)|  [Claudio H.][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
@@ -38,6 +57,12 @@ Na tabela 1 é possíver as técnicas utilizadas relacionando-as com a entrega e
 |Design, Avaliação e Desenvolvimento| [Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/loja-online/) |Entrevista, Questionário e Protótipo de Alta Fidelidade |[Claudio Henrique][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH]|
 | Verificação do Grupo + 1 | [Grupo + 1](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo%2B1/etapa_01/planejamento_etapa_01/)| Inspeção de Fagan<sup><a href="#ref2">2</a></sup>| [Claudio Henrique][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
 | Verificação do Grupo | [Grupo 3](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/planejamento-geral/)| Inspeção de Fagan <sup><a href="#ref2">2</a></sup>| [Claudio Henrique][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
+
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024 </p></font>
+
 
 ## Conclusão
 
