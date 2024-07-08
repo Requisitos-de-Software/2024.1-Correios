@@ -343,7 +343,7 @@ Legendas:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 23/06/2024 | Criação do documento | [Cláudio Henrique](https://github.com/pabloheika), [Gabriel F. J. Silva][GabrielFGH], [Ricardo Augusto][RicardoGH]  | [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes  |
+| `1.0`  | 23/06/2024 | Criação do documento | [Cláudio Henrique](https://github.com/pabloheika), [Gabriel F. J. Silva][GabrielFGH], [Ricardo Augusto][RicardoGH]  | [DaniloGH][DaniloGH]  |
 
 
 [ClaudioGH]: https://github.com/claudiohsc

@@ -34,7 +34,7 @@ Na tabela 1 é possíver as técnicas utilizadas relacionando-as com a entrega e
 | Verificação do Grupo + 1 | [Grupo + 1](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo%2B1/elicitacao/perfil_do_usuario/)| Inspeção de Fagan<sup><a href="#ref2">2</a></sup>| [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
 | Verificação do Grupo | [Grupo 3](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo/planejamento_geral/)| Inspeção de Fagan <sup><a href="#ref2">2</a></sup>| [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
 |Validação| [Validação](https://requisitos-de-software.github.io/2024.1-Correios/validacao/loja_online/)| Protótipo de Alta Fidelidade| [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
-|Pós-Rastreabilidade| [Backward-From](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/backward-from/)| Meta-modelo de Toranzo| [Claudio H.][ClaudioGH], [Gabriel F. J. Silva][GabrielFGH] e [Ricardo Augusto][RicardoGH] |
+|Pós-Rastreabilidade| [Backward-From](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/backward-from/)| Meta-modelo de Toranzo<sup><a href="#ref4">4</a></sup> | [Claudio H.][ClaudioGH], [Gabriel F. J. Silva][GabrielFGH] e [Ricardo Augusto][RicardoGH] |
 |Pós-Rastreabilidade| [Forward-From	](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/forward-from/)| [Forward-From](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/forward-from/)| [Elias F. Oliveira][EliasGH] e [Gabriel B. Bertolazi][GabrielBGH] |
 |Pós-Rastreabilidade| [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/matriz/)| [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/matriz/)| [Danilo C.][DaniloGH] e [Pablo S. Costa][PabloGH] |
 
@@ -53,7 +53,9 @@ Ao longo das diversas fases, do planejamento à validação, foram empregadas v�
 
 > 2<a id="ref2">.</a> FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
-> 3<a id="ref3">.</a> Nielsen, J. Usability Engineering. New York, NY: Academic Press, 1993.
+> 3<a id="ref3">.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 07 de julho de 2024.
+
+> 4<a id="ref4">.</a> TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 07 de julho de 2024.
 
 ## Histórico de Versões
 
