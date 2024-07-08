@@ -21,17 +21,17 @@ Ao analisar o artefato [personas](https://requisitos-de-software.github.io/2024.
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|01| O documento possui personas primárias e secundárias? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|02| Existem pelomenos uma persona por papel de usuário? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|03| O documento apresenta a antipersona? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|04| O elenco de personas está dentro do escopo de 3 a 12 personas? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|05| As personas possuem os elementos: Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? | Incompleto. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|06| Alguma persona tem seus objetivos pessoais violados? | Não. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|07| Foi elencado nas personas algum falso objetivo? |Não.|IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 167 - 171)|
-|08| A persona primária possui uma solidez tangível(nível alto de especificidade) para colocar os pressupostos de design em perspectiva?| Não. |IHC - Barbosa e Silva(Cap. 8.2 / Pg. 169)|
-|09| A persona primária possui elasticidade(nível baixo de especificidade)?| Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pg. 169)|
-|10| No documento é justificada a quantidade de personas? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / Pg. 169)|
-|11| As personas apresentam os objetivos: pessoais, corporativos e práticos?| Incompleto. |IHC - Barbosa e Silva(Cap. 8.2 / Pgs. 170)|
+|01| O documento possui personas primárias e secundárias? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / [Pg.167][Pg.167], [Pg.168][Pg.168], [Pg.169][Pg.169], [Pg.170][Pg.170] e [Pg.171][Pg.171])|
+|02| Existem pelomenos uma persona por papel de usuário? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / [Pg.167][Pg.167], [Pg.168][Pg.168], [Pg.169][Pg.169], [Pg.170][Pg.170] e [Pg.171][Pg.171])|
+|03| O documento apresenta a antipersona? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / [Pg.167][Pg.167], [Pg.168][Pg.168], [Pg.169][Pg.169], [Pg.170][Pg.170] e [Pg.171][Pg.171])|
+|04| O elenco de personas está dentro do escopo de 3 a 12 personas? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / [Pg.167][Pg.167], [Pg.168][Pg.168], [Pg.169][Pg.169], [Pg.170][Pg.170] e [Pg.171][Pg.171])|
+|05| As personas possuem os elementos: Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas? | Incompleto. |IHC - Barbosa e Silva(Cap. 8.2 / [Pg.167][Pg.167], [Pg.168][Pg.168], [Pg.169][Pg.169], [Pg.170][Pg.170] e [Pg.171][Pg.171])|
+|06| Alguma persona tem seus objetivos pessoais violados? | Não. |IHC - Barbosa e Silva(Cap. 8.2 / [Pg.167][Pg.167], [Pg.168][Pg.168], [Pg.169][Pg.169], [Pg.170][Pg.170] e [Pg.171][Pg.171])|
+|07| Foi elencado nas personas algum falso objetivo? |Não.|IHC - Barbosa e Silva(Cap. 8.2 / [Pg.167][Pg.167], [Pg.168][Pg.168], [Pg.169][Pg.169], [Pg.170][Pg.170] e [Pg.171][Pg.171])|
+|08| A persona primária possui uma solidez tangível(nível alto de especificidade) para colocar os pressupostos de design em perspectiva?| Não. |IHC - Barbosa e Silva(Cap. 8.2 / [Pg.169][Pg.169])|
+|09| A persona primária possui elasticidade(nível baixo de especificidade)?| Sim. |IHC - Barbosa e Silva(Cap. 8.2 / [Pg.169][Pg.169])|
+|10| No documento é justificada a quantidade de personas? | Sim. |IHC - Barbosa e Silva(Cap. 8.2 / [Pg.169][Pg.169])|
+|11| As personas apresentam os objetivos: pessoais, corporativos e práticos?| Incompleto. |IHC - Barbosa e Silva(Cap. 8.2 / Pg.170[Pg.170])|
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
@@ -74,3 +74,9 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 [GabrielFGH]: https://github.com/MMcLovin
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
+
+[Pg.167]: ../../../assets/imagens_referencias/personas/167.png
+[Pg.168]: ../../../assets/imagens_referencias/personas/168.png
+[Pg.169]: ../../../assets/imagens_referencias/personas/169.png
+[Pg.170]: ../../../assets/imagens_referencias/personas/170.png
+[Pg.171]: ../../../assets/imagens_referencias/personas/171.png
