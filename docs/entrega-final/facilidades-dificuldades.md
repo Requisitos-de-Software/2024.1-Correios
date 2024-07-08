@@ -78,7 +78,7 @@ Durante o projeto, tive desafios significativos, principalmente relacionados ao 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 07/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [][] |
+| `1.0`  | 07/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Ricardo A.][RicardoGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
