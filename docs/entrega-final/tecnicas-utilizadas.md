@@ -34,7 +34,9 @@ Na tabela 1 é possíver as técnicas utilizadas relacionando-as com a entrega e
 | Verificação do Grupo + 1 | [Grupo + 1](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo%2B1/elicitacao/perfil_do_usuario/)| Inspeção de Fagan<sup><a href="#ref2">2</a></sup>| [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
 | Verificação do Grupo | [Grupo 3](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo/planejamento_geral/)| Inspeção de Fagan <sup><a href="#ref2">2</a></sup>| [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
 |Validação| [Validação](https://requisitos-de-software.github.io/2024.1-Correios/validacao/loja_online/)| Protótipo de Alta Fidelidade| [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
-
+|Pós-Rastreabilidade| [Backward-From](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/backward-from/)| Meta-modelo de Toranzo| [Claudio H.][ClaudioGH], [Gabriel F. J. Silva][GabrielFGH] e [Ricardo Augusto][RicardoGH] |
+|Pós-Rastreabilidade| [Forward-From	](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/forward-from/)| [Forward-From](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/forward-from/)| [Elias F. Oliveira][EliasGH] e [Gabriel B. Bertolazi][GabrielBGH] |
+|Pós-Rastreabilidade| [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/matriz/)| [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/matriz/)| [Danilo C.][DaniloGH] e [Pablo S. Costa][PabloGH] |
 
 </center>
 
