@@ -14,7 +14,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 <label><input type="checkbox"  disabled>[Danilo Carvalho][DaniloGH]</label><br>
 <label><input type="checkbox" checked disabled>[Elias F. Oliveira][EliasGH]</label><br>
 <label><input type="checkbox"  disabled>[Gabriel Bertolazi][GabrielBGH]</label><br>
-<label><input type="checkbox" checked disabled>[Gabriel Fernando][GabrielFGH]</label><br>
+<label><input type="checkbox" checked disabled>[Gabriel F. J. Silva][GabrielFGH]</label><br>
 <label><input type="checkbox" checked disabled>[Pablo Santos][PabloGH]</label><br>
 <label><input type="checkbox" checked disabled>[Ricardo Augusto][RicardoGH]</label><br>
 
