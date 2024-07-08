@@ -10,25 +10,21 @@ O objetivo do desenvolvimento do projeto na disciplina de Requisitos de Software
 
 ## Resultados
 
-Durante a disciplina nós foi permitido exploramos, conhecer, compreender e aplicar artefatos, ferramentas, técnicas e outros recursos em cada tópico chave da Engenharia de Requisitos usando como base app dos Correios.
+Durante a disciplina nós fomos permitidos exploramos, conhecer, compreender e aplicar artefatos, ferramentas, técnicas e outros recursos em cada tópico chave da Engenharia de Requisitos usando como base o app dos Correios. Para isso foram definidos tópicos a serem realizados sendo estes pré-rastreabilidade, planejamento, elicitação, modelagem, verificação e validação e pós rastreabilidade.
 
-Durante a disciplina nós exploramos os conceitos gerais de IHC destacando as principais teorias de fundamento, métodos e técnicas utilizadas para a concepção e desenvolvimento de sistemas e avaliação de uso, para tal foi utilizado o processo de design adaptado de Mayhew, este define ciclos para serem projetados interfaces de software, para isso primeiro foi elaborado uma etapa de planejamento para então aplicar os ciclos análises de requisitos; design, avaliação e desenvolvimento; e verificação.
+Para poder iniciar o projeto foi determinado uma etapa de planejamento, definimos então o cronograma, aplicativo escolhido, estruturação da documentação, ferramentas adotadas, equipe e regras de trabalho. Essa etapa foi crucial para podermos ter uma noção de como seria o projeto em geral. Junto à etapa de planejamento também foi executado a pré-rastreabilidade, esta sendo trabalhos individuais de cada um dos integrantes realizando o Rich Picture dos aplicativos candidatos ao projeto. Assim conseguimos definir com base nos conhecimentos da disciplina o aplicativo referente ao projeto.
 
+Em seguida realizamos a elicitação de requisitos, com base em um perfil de usuário que definimos, conseguimos realizar técnicas de elicitações e priorizações de requisitos. Assim demos início ao conteúdo programático da disciplina.
 
-Para poder iniciar o projeto foi determinado uma etapa de planejamento, definimos então o cronograma, aplicativo escolhido, estruturação da documentação, ferramentas adotadas, equipe e regras de trabalho. Essa etapa foi crucial para podermos ter uma noção de como seria o projeto em geral.
+Utilizamos modelagem para poder realizar o tratamento dos requisitos elicitados, assim tendo uma profundidade muito maior dos casos de uso e dos termos que são usados no aplicativo dos Correios, melhoramos nossos requisitos não funcionais estipulamos cenários de utilização. Em seguida usando metodologia ágil definimos o backlog, histórias de usuários e o NFR framework, para termos uma modelagem completa.
 
+Na verificação e validação realizamos o trabalho de checagem dos artefatos produzidos durante todo o projeto, esse trecho foi essencial para garantir a qualidade final. Para isso utilizamos método baseado nas inspeção de checklist desenvolvido por Fagan. E realizamos entrevistas de validação com usuários de forma formal e enviamos um e-mail de validação informal para os Correios.
 
-A partir da análise de requisitos o grupo pode começar colocar em prática os conhecimentos adquiridos durante as aulas, nesse Nível do projeto podemos identificar as características dos serviços que os Correios fornecem e identificarmos o tipo e as necessidades dos usuários, estipulamos as metas de usabilidade e aplicamos um guia de estilo.
-
-
-No design avaliação e desenvolvimento começamos a introduzir sugestões de melhorias com base nos estudos levantados, nisso desenvolvemos análises de tarefas, storyboards e protótipos de alta e baixa fidelidade. Realizamos a avaliação desses artefatos buscando identificar a credibilidade do que foi produzido.
-
-
-Ademais na verificação realizamos o trabalho de checagem dos artefatos produzidos durante todo o projeto, esse trecho foi essencial para garantir a qualidade final. Para isso utilizamos método baseado nas inspeção de checklist desenvolvido por Fagan.
+Em pós rastreabilidade fizemos os mapeamento do projeto inteiro utilizando as técnicas  Backward-From, Forward-From e Matriz de Rastreabilidade. Técnicas essas que nos permitiu deixar claro as conexões entre os requisitos e seus artefatos relacionados.
 
 ## Conclusão
 
-A integração dos conceitos de interação humano-computador (IHC) em um projeto prático proporcionou uma experiência valiosa para nós estudantes do grupo 3. Ao utilizar o site dos Correios como base, podemos explorar aspectos reais de usabilidade e acessibilidade, elementos cruciais no design de interfaces eficientes. Este projeto nos permitiu aplicar teorias de IHC na análise e melhoria da experiência do usuário, identificando pontos de fricção e propondo soluções de melhorias. Além disso, a colaboração do projeto aplicado fomentou a habilidades de trabalho em equipe e comunicação, essenciais no ambiente profissional de tecnologia da informação.
+Com base no aplicativo dos Correios, o projeto da disciplina de Requisitos de Software proporcionou ao grupo 3 a oportunidade de aplicar conhecimentos teóricos em um contexto prático. Através de etapas como pré-rastreabilidade, planejamento, elicitação, modelagem, verificação, validação e pós-rastreabilidade, a equipe pôde explorar e compreender ferramentas e técnicas essenciais da Engenharia de Requisitos, culminando em uma experiência em equipe enriquecedora que integrou teoria e prática de forma eficaz.
 
 ## Bibliografia
 
