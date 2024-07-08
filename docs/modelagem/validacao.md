@@ -52,4 +52,4 @@ A gravação da sessão de validação dos casos de uso pode ser vista clicando 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | :-------: | :-------: | :---------: |
-| `1.0`  | 20/05/2024 | Criação do documento  | [Claudio Henrique](https://github.com/claudiohsc) | [Pablo Costa](https://github.com/pabloheika) |
+| `1.0`  | 20/05/2024 | Criação do documento  | [Claudio Henrique](https://github.com/claudiohsc) | [Pablo S. Costa](https://github.com/pabloheika) |
