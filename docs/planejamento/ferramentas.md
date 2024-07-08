@@ -24,6 +24,8 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 
 <font size="2"><p style="text-align: center"><b>Tabela 2</b> - Ferramentas Utilizadas no Projeto</p></font> 
 
+<center class="img_ferramentas">
+
 | Logo   |        Ferramenta         |                             Finalidade                               |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/telegram.png" width="100" height=auto>|<strong> Telegram| Comunicação do grupo via mensagens.<a id="TEC1" href="#RP1"></a> |
@@ -35,7 +37,9 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/youtube.png"  width="100" height=auto>|<strong> YouTube   |  Hospedagem das reuniões e entregas da disciplina.<a id="TEC1" href="#RP1"></a> |
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/figma.png"  width="100" height=auto>|<strong> Figma   |  Criação de diagramas e Rich Picture e produção de artefatos gráficos.<a id="TEC1" href="#RP1"></a> |
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/drawio.png"  width="100" height=auto>|<strong> Drawio   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1"></a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/personnotexist.png"  width="100" height=auto>|<strong> This Person Doesn't Exist   |  Geração de fotos para as personas.<a id="TEC1" href="#RP1"></a> |
+| ![teste](../assets/ferramentas_logo/personnotexist.jpg) | This Person Does Not Exist |  Geração de fotos para as personas.<a id="TEC1" href="#RP1"></a> |
+
+</center>
 
  <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
