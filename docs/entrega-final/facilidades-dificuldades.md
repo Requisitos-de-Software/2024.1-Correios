@@ -34,7 +34,7 @@ A combinação de experiência prévia e habilidades técnicas específicas, com
 
 #### **Pablo Santos**
 
-
+Durante o projeto, tive facilidades principalmente na comunicação e entendimento entre os membros do grupo, o que foi possível devido ao fato de estarmos no mesmo grupo em outra disciplina. Além disso, a divisão igualitária das tarefas entre os integrantes do grupo contribuiu para que nenhum membro fosse sobrecarregado.
 
 #### **Ricardo Augusto**
 
@@ -54,6 +54,7 @@ Outro desafio significativo foi a busca por conteúdos confiáveis. Encontrar fo
 #### **Elias Faria**
 
 
+
 #### **Gabriel Bertolazzi**
 
 
@@ -64,7 +65,7 @@ Outro desafio significativo foi a busca por conteúdos confiáveis. Encontrar fo
 
 #### **Pablo Santos**
 
-
+Durante o projeto, tive desafios significativos, principalmente relacionados ao gerenciamento do tempo. A greve dos professores resultou em alterações no calendário acadêmico, o que afetou diretamente o planejamento das entregas. Essa situação atípica exigiu adaptações rápidas, e comprometeu a capacidade de realizar ou revisar os artefatos conforme desejado. A coordenação entre as disciplinas de Requisitos de Software e IHC também se tornou mais complexa, aumentando a demanda de tempo para produzir artefatos de qualidade.
 
 #### **Ricardo Augusto**
 
