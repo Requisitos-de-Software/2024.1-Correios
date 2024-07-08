@@ -157,13 +157,13 @@ Abaixo, na tabela 7, está especificado o caso de uso para a funcionalidade de "
 
 | UC05 | Gerenciar minhas importações |
 |-|-|
-| **Descrição** | <p>Neste caso de uso o usuario pode consultar e resolver situações alfandegarias.</p> |
-| **Atores** | <p></p> |
-| **Pré-condição** | <p>Acesso a internet<br>App instalado<br>Usuario autenticado</p> |
-| **Pós-condição** | <p>Usuario sem pendencias alfandegarias.</p> |
-| **Fluxo principal** | <p> **Consulta de Importações:** <br>O usuário acessa a seção de gerenciamento de importações no aplicativo.<br>O sistema exibe a lista de importações associadas à conta do usuário.<br>O usuário pode visualizar detalhes como status, datas, valores e informações relevantes de cada importação.<br>**Resolução de Situações Alfandegárias:** <br>O usuário seleciona uma importação específica que possui uma situação alfandegária pendente.<br>O sistema exibe os detalhes da situação, como descrição do problema, documentos necessários e prazos.<br>O usuário pode tomar ações para resolver a situação, como fornecer documentos adicionais, pagar taxas ou contestar valores.</p> |
-| **Fluxo alternativo** | <p> **Consulta de Histórico de Situações Alfandegárias:** <br>O usuário acessa a seção de histórico de situações alfandegárias.<br>O sistema exibe uma lista cronológica das situações anteriores enfrentadas pelo usuário.<br>O usuário pode revisar os detalhes dessas situações para referência ou análise.</p> |
-| **Fluxo de exceções** | **Erro de Autenticação:** <br>Se o usuário não estiver autenticado, o sistema solicita que ele faça login.<br>Após a autenticação, o usuário pode continuar com as operações de gerenciamento de importações. |
+| **Descrição** | <p>Neste caso de uso o cliente pode consultar e resolver situações alfandegarias.</p> |
+| **Atores** | <p>Usuário, Receita Federal</p> |
+| **Pré-condição** | <p>Acesso a internet<br>App instalado<br>Cliente autenticado</p> |
+| **Pós-condição** | <p>Cliente sem pendencias alfandegarias.</p> |
+| **Fluxo principal** | <p> **Consulta de Importações:** <br>O usuário acessa a seção de gerenciamento de importações no aplicativo.[AD16, AD17](../elicitacao/tecnicas/analise-documental.md)<br>O sistema exibe a lista de importações associadas à conta do usuário.[AD18](../elicitacao/tecnicas/analise-documental.md)<br>O usuário pode visualizar detalhes como status, datas, valores e informações relevantes de cada importação.[AD18](../elicitacao/tecnicas/analise-documental.md)<br>**Resolução de Situações Alfandegárias:** <br>O usuário seleciona uma importação específica que possui uma situação alfandegária pendente.<br>O sistema exibe os detalhes da situação, como descrição do problema, documentos necessários e prazos.[AD18](../elicitacao/tecnicas/analise-documental.md)<br>O usuário pode tomar ações para resolver a situação, como fornecer documentos adicionais, pagar taxas ou contestar valores.[AD23, AD24, AD22](../elicitacao/tecnicas/analise-documental.md)</p> |
+| **Fluxo alternativo** | <p> **Consulta de Histórico de Situações Alfandegárias:** <br>O usuário acessa a seção de histórico de situações alfandegárias.<br>O sistema exibe uma lista cronológica das situações anteriores enfrentadas pelo usuário.<br>O usuário pode revisar os detalhes dessas situações para referência ou análise.[AD18](../elicitacao/tecnicas/analise-documental.md)</p> |
+| **Fluxo de exceções** | **Erro de Autenticação:** <br>Se o usuário não estiver autenticado, o sistema solicita que ele faça login.[BS02](../elicitacao/tecnicas/brainstorming.md)<br>Após a autenticação, o usuário pode continuar com as operações de gerenciamento de importações. |
 
 </center>
 
@@ -227,6 +227,7 @@ Abaixo, na tabela 9, está especificado o caso de uso para a funcionalidade de "
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 14/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | [Gabriel F. J. Silva][GabrielFGH] |
+| `1.1`  | 08/07/2024 | Revisão | [Pablo S. Costa][PabloGH] | [Gabriel F. J. Silva][GabrielFGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
