@@ -20,7 +20,7 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 |Modelagem| Especificação suplementar | `2.0`|20/05/2024|[Danilo C.][DaniloGH] e [Pablo S. Costa][PabloGH] | [Ricardo A.][RicardoGH] |
 |Modelagem| Léxicos | `1.0`|15/05/2024| [Claudio H][ClaudioGH] e  [Elias F.][EliasGH] | [Danilo C.][DaniloGH] |
 |Modelagem| Backlog | `1.0`|25/05/2024| [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH]  |   [Pablo S. Costa][PabloGH]  |
-|Modelagem| Histórias de usuário | `1.1`|27/05/2024|  [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH]|  [Ricardo A.][RicardoGH]  |
+|Modelagem| Histórias de usuário | `1.1`|27/05/2024|  [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH]|  [Ricardo A.][RicardoGH]  |
 |Modelagem| NFR Framework | `1.0`|23/05/2024|  [Elias F.][EliasGH] e [Ricardo A.][RicardoGH] | [Pablo S. Costa][PabloGH] |
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>

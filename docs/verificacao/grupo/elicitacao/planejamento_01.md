@@ -19,13 +19,13 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 |:---:|:--:|:----:|:----:|:----:|:----:|
 |Elicitação| Perfil de Usuário	 | `1.2`|23/04/2024|[Elias F.][EliasGH] |  [Danilo C.][DaniloGH]|
 |Elicitação| Personas | `1.0`|16/04/2024|  [Pablo S. Costa][PabloGH] | [Claudio H][ClaudioGH] |
-|Elicitação| Técnicas - Análise documental | `1.2`|23/06/2024| [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] |[Claudio H.][ClaudioGH] | 
+|Elicitação| Técnicas - Análise documental | `1.2`|23/06/2024| [Elias F.][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] |[Claudio H.][ClaudioGH] | 
 |Elicitação| Técnicas - Brainstorming		 | `1.4`|23/06/2024| [Claudio H][ClaudioGH] e  [Elias F.][EliasGH] | [Gabriel F. J. Silva][GabrielFGH]|
-|Elicitação| Técnicas - Observação | `1.1`|23/06/2024| [Danilo C.][DaniloGH] e [Ricardo A.][RicardoGH] | [Gabriel B.][GabrielBGH]|
-|Elicitação| Técnicas - Questionário | `1.0`|12/05/2024|  [Gabriel B.][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH] | [Pablo S. Costa][PabloGH] |
-|Elicitação| Priorização - $100	 | `1.0`|21/04/2024|  [Gabriel B.][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH] |[Ricardo A.][RicardoGH] |
+|Elicitação| Técnicas - Observação | `1.1`|23/06/2024| [Danilo C.][DaniloGH] e [Ricardo A.][RicardoGH] | [Gabriel B. Bertolazi][GabrielBGH]|
+|Elicitação| Técnicas - Questionário | `1.0`|12/05/2024|  [Gabriel B. Bertolazi][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH] | [Pablo S. Costa][PabloGH] |
+|Elicitação| Priorização - $100	 | `1.0`|21/04/2024|  [Gabriel B. Bertolazi][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH] |[Ricardo A.][RicardoGH] |
 |Elicitação| Priorização - First things first | `1.0`|24/04/2024|  [Ricardo A.][RicardoGH] e [Pablo S. Costa][PabloGH]  |  [Gabriel F. J. Silva][GabrielFGH]  |
-|Elicitação| Priorização - In or Out | `1.0`|22/04/2024|  [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH] | [Gabriel B.][GabrielBGH] |
+|Elicitação| Priorização - In or Out | `1.0`|22/04/2024|  [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH] | [Gabriel B. Bertolazi][GabrielBGH] |
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
