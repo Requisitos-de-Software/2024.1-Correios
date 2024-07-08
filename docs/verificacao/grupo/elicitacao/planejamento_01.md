@@ -17,10 +17,10 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
-|Elicitação| Perfil de Usuário	 | `1.2`|23/04/2024|[Elias F.][EliasGH] |  [Danilo C.][DaniloGH]|
+|Elicitação| Perfil de Usuário	 | `1.2`|23/04/2024|[Elias F. Oliveira][EliasGH] |  [Danilo C.][DaniloGH]|
 |Elicitação| Personas | `1.0`|16/04/2024|  [Pablo S. Costa][PabloGH] | [Claudio Henrique][ClaudioGH] |
-|Elicitação| Técnicas - Análise documental | `1.2`|23/06/2024| [Elias F.][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] |[Claudio Henrique][ClaudioGH] | 
-|Elicitação| Técnicas - Brainstorming		 | `1.4`|23/06/2024| [Claudio Henrique][ClaudioGH] e  [Elias F.][EliasGH] | [Gabriel F. J. Silva][GabrielFGH]|
+|Elicitação| Técnicas - Análise documental | `1.2`|23/06/2024| [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] |[Claudio Henrique][ClaudioGH] | 
+|Elicitação| Técnicas - Brainstorming		 | `1.4`|23/06/2024| [Claudio Henrique][ClaudioGH] e  [Elias F. Oliveira][EliasGH] | [Gabriel F. J. Silva][GabrielFGH]|
 |Elicitação| Técnicas - Observação | `1.1`|23/06/2024| [Danilo C.][DaniloGH] e [Ricardo Augusto][RicardoGH] | [Gabriel B. Bertolazi][GabrielBGH]|
 |Elicitação| Técnicas - Questionário | `1.0`|12/05/2024|  [Gabriel B. Bertolazi][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH] | [Pablo S. Costa][PabloGH] |
 |Elicitação| Priorização - $100	 | `1.0`|21/04/2024|  [Gabriel B. Bertolazi][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH] |[Ricardo Augusto][RicardoGH] |

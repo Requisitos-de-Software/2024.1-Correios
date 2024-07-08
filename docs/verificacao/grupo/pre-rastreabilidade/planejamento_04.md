@@ -18,7 +18,7 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
-|Pré-Rastreabilidade| Rich Picture | `1.2`|14/04/2024| [Claudio Henrique][ClaudioGH] | [Elias F.][EliasGH]|
+|Pré-Rastreabilidade| Rich Picture | `1.2`|14/04/2024| [Claudio Henrique][ClaudioGH] | [Elias F. Oliveira][EliasGH]|
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 

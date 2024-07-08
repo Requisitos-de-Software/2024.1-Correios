@@ -137,7 +137,7 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH] e [Elias][EliasGH], 2024</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH] e [Elias F. Oliveira][EliasGH], 2024</p></font>
 
 ## NFR Usabilidade
 

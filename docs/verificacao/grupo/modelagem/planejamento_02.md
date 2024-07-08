@@ -18,10 +18,10 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
 |Modelagem| Especificação suplementar | `2.0`|20/05/2024|[Danilo C.][DaniloGH] e [Pablo S. Costa][PabloGH] | [Ricardo Augusto][RicardoGH] |
-|Modelagem| Léxicos | `1.0`|15/05/2024| [Claudio Henrique][ClaudioGH] e  [Elias F.][EliasGH] | [Danilo C.][DaniloGH] |
+|Modelagem| Léxicos | `1.0`|15/05/2024| [Claudio Henrique][ClaudioGH] e  [Elias F. Oliveira][EliasGH] | [Danilo C.][DaniloGH] |
 |Modelagem| Backlog | `1.0`|25/05/2024| [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH]  |   [Pablo S. Costa][PabloGH]  |
 |Modelagem| Histórias de usuário | `1.1`|27/05/2024|  [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH]|  [Ricardo Augusto][RicardoGH]  |
-|Modelagem| NFR Framework | `1.0`|23/05/2024|  [Elias F.][EliasGH] e [Ricardo Augusto][RicardoGH] | [Pablo S. Costa][PabloGH] |
+|Modelagem| NFR Framework | `1.0`|23/05/2024|  [Elias F. Oliveira][EliasGH] e [Ricardo Augusto][RicardoGH] | [Pablo S. Costa][PabloGH] |
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
