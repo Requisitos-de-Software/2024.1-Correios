@@ -1,7 +1,7 @@
 # Técnicas Utilizadas no Projeto
 
 ## Introdução
-Este artefato apresenta uma tabela geral com todas as técnicas e metodologias utilizadas durante o processo de estudo e aplicação dos conceitos da disciplina de Interação Humano-Computador. Na tabela estará detalhado cada um dos artefatos e quais as respectivas técnicas que foram utilizadas durante o estudo de IHC.
+Este artefato apresenta uma tabela geral com todas as técnicas e metodologias utilizadas durante o processo de estudo e aplicação dos conceitos da disciplina de Requisitos de Software. Na tabela 1 estará detalhado cada um dos artefatos e quais as respectivas técnicas que foram utilizadas durante o estudo da disciplina, assim como seus responsáveis.
 
 ## Tabela de Técnicas Utilizadas
 
@@ -12,10 +12,12 @@ Na tabela 1 é possíver as técnicas utilizadas relacionando-as com a entrega e
 
 | Entrega | Artefato | Técnica(s) Utilizada(s)| Responsáveis|
 |:---:|:---:|:---:|:---:|
-| Planejamento | [Sites Avaliados](https://interacao-humano-computador.github.io/2024.1-Correios/planejamento/site_avaliados/)| Framework DECIDE| [Claudio H.][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
-|Planejamento| [Processo de Design](https://interacao-humano-computador.github.io/2024.1-Correios/planejamento/processo-design/)| Ciclo de Vida de Mayhew| [Claudio H.][ClaudioGH] e [Ricardo Augusto][RicardoGH] |
+| Pré-Rastreabilidade | [Rich Picture](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/richpicture/)| [Rich Picture](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/richpicture/) | [Claudio H.][ClaudioGH]|
+| Pré-Rastreabilidade | [Aplicativos Avaliados](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/appsavaliados/)| [Rich Picture]((https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/appsavaliados/)) | [Claudio H.][ClaudioGH], [Danilo C.][DaniloGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
+|Elicitação| [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/perfil_de_usuario/perfil_de_usuario/)| [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/) | [Elias F. Oliveira][EliasGH] |
+|Elicitação | [Personas](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/personas/)| [Personas](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/personas/)| [Pablo S. Costa][PabloGH]|
 |Análise de Requisitos| [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) |[Grupo de Foco](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/#grupo-de-foco), [Questionário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/#resultados-do-formulario) | [Claudio H.][ClaudioGH] e [Elias F. Oliveira][EliasGH] |
-|Análise de Requisitos | [Personas](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/)| [Personas](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/)| [Pablo S. Costa][PabloGH]|
+
 |Análise de Requisitos | [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/)| [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/)|  [Claudio H.][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
 |Análise de Requisitos | [Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/)| [Análise de Tarefas - HTA](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/) e [Análise de Tarefas - CMN-GOMS](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/cmn_goms/)|  [Claudio H.][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
 |Análise de Requisitos II | [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/principios_gerais/)|Princípios e Diretrizes comumente usados em Interação Humano Computador (S. D. J. Barbosa, B. S. da Silva)<sup><a href="#ref1">1</a></sup> |  [Claudio H.][ClaudioGH] e [Elias F. Oliveira][EliasGH]|
@@ -53,7 +55,7 @@ Ao longo das diversas fases, do planejamento à verificação, foram empregadas 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 04/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [][] |
+| `1.0`  | 07/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Ricardo Augusto][RicardoGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
