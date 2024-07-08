@@ -4,7 +4,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Ba
 
 ## Metodologia
 
-Este artefato foi verificado por [Pablo][PabloGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Para cada item do checklist, será atribuído uma avaliação entre "Sim", "Não" ou "Incompleto". A lista de verificação também conta tanto com uma coluna de descrição do item em verificação quanto outra para a fonte que o fundamenta. Ao final, será comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados).
+Este artefato foi verificado por [Pablo S. Costa][PabloGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Para cada item do checklist, será atribuído uma avaliação entre "Sim", "Não" ou "Incompleto". A lista de verificação também conta tanto com uma coluna de descrição do item em verificação quanto outra para a fonte que o fundamenta. Ao final, será comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados).
 
 ## Apresentação dos Dados
 
@@ -88,7 +88,7 @@ pie
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo][PabloGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## Bibliografia
 >1. Lino, Ester. **Backlog do Projeto**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/backlog. Acesso em: 09 maio 2023.

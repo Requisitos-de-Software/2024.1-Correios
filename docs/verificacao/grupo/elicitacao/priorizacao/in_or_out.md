@@ -7,7 +7,7 @@ Este documento apresenta a verificação do artefato da técnica de priorizaçã
 O objetivo deste documento é apresentar e mostrar os erros encontrados no artefato da técnica de priorização [in or out][In or out] do projeto realizado pelo grupo [03 - Correios][Grupo 03 Correios] da matéria de requisitos de software.
 
 ## Metodologia
-A metodologia utilizada para verificar o artefato emprega o método de inspeção através da utilização de um checklist criado usando como base os principais conceitos ministrados na matéria de requisitos e também nas referências citadas ao final do documento. Abaixo temos o checklist que foi criado pelo integrante [Elias F. Oliveira][EliasGH] e preenchido verificando o artefato da técnica de priorização [in or out][In or out] pelo integrante [Pablo][PabloGH].
+A metodologia utilizada para verificar o artefato emprega o método de inspeção através da utilização de um checklist criado usando como base os principais conceitos ministrados na matéria de requisitos e também nas referências citadas ao final do documento. Abaixo temos o checklist que foi criado pelo integrante [Elias F. Oliveira][EliasGH] e preenchido verificando o artefato da técnica de priorização [in or out][In or out] pelo integrante [Pablo S. Costa][PabloGH].
 
 ### Checklist In or Out
 

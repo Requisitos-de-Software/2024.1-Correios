@@ -21,24 +21,24 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 |:---:|:--:|:----:|:----:|:----:|:----:|
 |Pré-Rastreabilidade| Rich Picture | `1.2`|14/04/2024| [Claudio Henrique][ClaudioGH] | [Elias F.][EliasGH]|
 |Elicitação| Perfil de Usuário	 | `1.2`|23/04/2024|[Elias F.][EliasGH] |  [Danilo C.][DaniloGH]|
-|Elicitação| Personas | `1.0`|16/04/2024|  [Pablo S.][PabloGH] | [Claudio H][ClaudioGH] |
-|Elicitação| Técnicas - Análise documental | `1.2`|23/06/2024| [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] |[Claudio H.][ClaudioGH] | 
+|Elicitação| Personas | `1.0`|16/04/2024|  [Pablo S. Costa][PabloGH] | [Claudio H][ClaudioGH] |
+|Elicitação| Técnicas - Análise documental | `1.2`|23/06/2024| [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S. Costa][PabloGH] |[Claudio H.][ClaudioGH] | 
 |Elicitação| Técnicas - Brainstorming		 | `1.4`|23/06/2024| [Claudio H][ClaudioGH] e  [Elias F.][EliasGH] | [Gabriel F.][GabrielFGH]|
 |Elicitação| Técnicas - Observação | `1.1`|23/06/2024| [Danilo C.][DaniloGH] e [Ricardo A.][RicardoGH] | [Gabriel B.][GabrielBGH]|
-|Elicitação| Técnicas - Questionário | `1.0`|12/05/2024|  [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] | [Pablo S.][PabloGH] |
+|Elicitação| Técnicas - Questionário | `1.0`|12/05/2024|  [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] | [Pablo S. Costa][PabloGH] |
 |Elicitação| Priorização - $100	 | `1.0`|21/04/2024|  [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Ricardo A.][RicardoGH] |
-|Elicitação|Priorização - First things first | `1.0`|24/04/2024|  [Ricardo A.][RicardoGH] e [Pablo S.][PabloGH]  |  [Gabriel F.][GabrielFGH]  |
+|Elicitação|Priorização - First things first | `1.0`|24/04/2024|  [Ricardo A.][RicardoGH] e [Pablo S. Costa][PabloGH]  |  [Gabriel F.][GabrielFGH]  |
 |Elicitação| Priorização - In or Out | `1.0`|22/04/2024|  [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH] | [Gabriel B.][GabrielBGH] |
-|Modelagem| Cenários | `1.0`|18/05/2024| [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Danilo C.][DaniloGH] [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
-|Modelagem| Casos de uso | `1.0`|14/05/2024| [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Danilo C.][DaniloGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
-|Modelagem| Especificação suplementar | `2.0`|20/05/2024|[Danilo C.][DaniloGH] e [Pablo S.][PabloGH] | [Ricardo A.][RicardoGH] |
+|Modelagem| Cenários | `1.0`|18/05/2024| [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Danilo C.][DaniloGH] [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo A.][RicardoGH] |
+|Modelagem| Casos de uso | `1.0`|14/05/2024| [Pablo S. Costa][PabloGH] e [Ricardo A.][RicardoGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Danilo C.][DaniloGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo A.][RicardoGH] |
+|Modelagem| Especificação suplementar | `2.0`|20/05/2024|[Danilo C.][DaniloGH] e [Pablo S. Costa][PabloGH] | [Ricardo A.][RicardoGH] |
 |Modelagem| Léxicos | `1.0`|15/05/2024| [Claudio H][ClaudioGH] e  [Elias F.][EliasGH] | [Danilo C.][DaniloGH] |
-|Modelagem| Backlog | `1.0`|25/05/2024| [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH]  |   [Pablo S.][PabloGH]  |
-|Modelagem| Histórias de usuário | `1.1`|27/05/2024|  [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH]|  [Ricardo A.][RicardoGH]  |
-|Modelagem| NFR Framework | `1.0`|23/05/2024|  [Elias F.][EliasGH] e [Ricardo A.][RicardoGH] | [Pablo S.][PabloGH] |
+|Modelagem| Backlog | `1.0`|25/05/2024| [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH]  |   [Pablo S. Costa][PabloGH]  |
+|Modelagem| Histórias de usuário | `1.1`|27/05/2024|  [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S. Costa][PabloGH]|  [Ricardo A.][RicardoGH]  |
+|Modelagem| NFR Framework | `1.0`|23/05/2024|  [Elias F.][EliasGH] e [Ricardo A.][RicardoGH] | [Pablo S. Costa][PabloGH] |
 |Pós-Rastreabilidade| Backward-from	 | `1.0`|23/06/2024| [Claudio H][ClaudioGH], [Gabriel F.][GabrielFGH] e  [Ricardo A.][RicardoGH] | [Danilo C.][DaniloGH]  |
-|Pós-Rastreabilidade| Forward-from	 | `1.0`|23/06/2024| [Elias F.][EliasGH] e [Gabriel B.][GabrielBGH]  | [Pablo S.][PabloGH] |
-|Pós-Rastreabilidade| Matriz de Rastreabilidade | `1.0`|24/06/2024| [Pablo S.][PabloGH] e [Danilo C.][DaniloGH] |  [Elias F.][EliasGH]  |
+|Pós-Rastreabilidade| Forward-from	 | `1.0`|23/06/2024| [Elias F.][EliasGH] e [Gabriel B.][GabrielBGH]  | [Pablo S. Costa][PabloGH] |
+|Pós-Rastreabilidade| Matriz de Rastreabilidade | `1.0`|24/06/2024| [Pablo S. Costa][PabloGH] e [Danilo C.][DaniloGH] |  [Elias F.][EliasGH]  |
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
