@@ -62,7 +62,7 @@ A criação de um checklist para verificação de um Termo de Consentimento Livr
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 09/06/2024 | Criação do documento |  [Danilo Carvalho][DaniloGH] | [Elias Faria][EliasGH]  |
+| `1.0`  | 09/06/2024 | Criação do documento |  [Danilo Carvalho][DaniloGH] | [Elias F. Oliveira][EliasGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
