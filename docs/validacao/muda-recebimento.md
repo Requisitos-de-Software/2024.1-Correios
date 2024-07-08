@@ -84,7 +84,7 @@ O partcipante não demonstrou dificuldade em realizar as operações do sistema,
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 29/06/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Claudio][ClaudioGH] |
+| `1.0`  | 29/06/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Claudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes

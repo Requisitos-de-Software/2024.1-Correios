@@ -108,7 +108,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 27/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] | [Claudio H.][ClaudioGH] |
+| `1.0`  | 27/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] | [Claudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
