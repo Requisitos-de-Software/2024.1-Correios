@@ -1,6 +1,6 @@
 ## Introdução
 
-O grupo iniciou com algumas opções de sites analisados pelos próprios integrantes para desenvolvermos o trabalho e seus respectivos motivos para a escolha, e eles estão disponíveis no nosso artefato de [Sites Avaliados](https://interacao-humano-computador.github.io/2024.1-Correios/planejamento/site_avaliados/). Apesar de possuirmos uma lista interessante de [Sites Avaliados](https://interacao-humano-computador.github.io/2024.1-Correios/planejamento/site_avaliados/), resolvemos analisar em conjunto mais um site que foi o escolhido para desenvolver o projeto da disciplina de IHC, o site dos [Correios](https://www.correios.com.br).
+O grupo iniciou com algumas opções de aplicativos analisados pelos próprios integrantes para desenvolvermos o trabalho, e eles estão disponíveis no nosso artefato de [Sites Avaliados](https://interacao-humano-computador.github.io/2024.1-Correios/planejamento/site_avaliados/). Apesar de possuirmos uma lista interessante de [Sites Avaliados](https://interacao-humano-computador.github.io/2024.1-Correios/planejamento/site_avaliados/), resolvemos analisar em conjunto mais um site que foi o escolhido para desenvolver o projeto da disciplina de IHC, o site dos [Correios](https://www.correios.com.br).
 
 ## Motivações de Escolha
 
