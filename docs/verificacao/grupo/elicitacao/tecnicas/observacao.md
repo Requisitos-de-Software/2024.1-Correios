@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de elicitação de requisitos pela técnica de [Observação](link do artefato), feita pelo [Grupo 03](https://requisitos-de-software.github.io/2024.1-Correios/) da disciplina de Requisitos de Software, referente ao aplicativo [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de elicitação de requisitos pela técnica de [Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/), feita pelo [Grupo 03](https://requisitos-de-software.github.io/2024.1-Correios/) da disciplina de Requisitos de Software, referente ao aplicativo [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
@@ -126,7 +126,8 @@ pie
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 28/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [Pablo S. Costa][PabloGH] |
-| `1.1`  | 29/06/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Pablo S. Costa][PabloGH]  |
+| `1.1`  | 29/06/2024 | Aplicação do checklist do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Pablo S. Costa][PabloGH]  |
+| `1.2`  | 08/07/2024 | Conserta link do artefato verificado | [Gabriel B. Bertolazi][GabrielBGH] | [Pablo S. Costa][PabloGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
