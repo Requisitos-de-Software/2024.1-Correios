@@ -14,7 +14,7 @@ O grupo iniciou com algumas opções de aplicativos analisados pelos próprios i
 
 <font size="2"><p style="text-align: center">Figura 1: Logo dos Correios. </p></font>
 
-<center>
+<center class="logo_correios">
 
 ![logo_correios](../assets/correios-logo.png)
 
