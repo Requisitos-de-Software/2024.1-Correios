@@ -12,7 +12,8 @@ Para esse artefato, foi dividido em duas partes: Facilidades e Dificuldades. Em 
 
 #### **Claudio Henrique**
 
-Durante o projeto, a maior facilidade que observei foi o planejamento geral da disciplina desde o começo e a divisão igualitária das tarefas a serem realizadas por cada integrante. Essa organização inicial facilitou a divisão dos artefatos e, assim, contribuiu para um bom aproveitamento do conteúdo pelos integrantes do grupo. Outro ponto de destaque foi a colaboração geral do grupo, em que todos os integrantes participaram ativamente das decisões e etapas do projeto. Por fim, a oportunidade de trabalhar com o site e o aplicativo dos Correios nas disciplinas de Interação Humano-Computador e Requisitos de Software foi de grande valor, porque os projetos compartilhavam conteúdos semelhantes e tinham o mesmo público-alvo.
+A maior facilidade durante o desenvolvimento do projeto foi, com certeza, o planejamento e o comprometimento do grupo com as entregas. Essa organização inicial facilitou a divisão dos artefatos e, assim, contribuiu para um bom aproveitamento do conteúdo pelos integrantes do grupo. Outro ponto de destaque foi a colaboração geral do grupo, em que todos os integrantes participaram ativamente das decisões e etapas do projeto.
+Por fim, a oportunidade de trabalhar com o aplicativo e o site dos Correios nas disciplinas de Requisitos de Software e Interação Humano-Computador foi de grande valor, porque os projetos compartilhavam conteúdos semelhantes e tinham o mesmo público-alvo.
 
 #### **Danilo Carvalho**
 No desenvolvimento do projeto da disciplina de Requisitos, observei diversas facilidades que contribuíram para a execução eficiente e bem-sucedida das atividades. Primeiramente, já havia cursado uma disciplina com metodologia semelhante, também ministrada pelo professor André Barros, o que me proporcionou uma familiaridade com o processo e facilitou a adaptação às exigências e ao fluxo de trabalho.
@@ -45,6 +46,8 @@ Durante o projeto, tive facilidades principalmente na comunicação e entendimen
 
 Eu acredito que a maior dificuldade foi o gerenciamento do tempo que tínhamos para realizar os artefatos de cada etapa. Por mais que seguíssemos o planejamento de cada entrega, surgiam alguns imprevistos que impediam a entrega dos documentos na data prevista, e isso acabava prejudicando algumas etapas com relação ao prazo e à qualidade dos artefatos. Outro ponto foi a integração entre as duas disciplinas de IHC e Requisitos de Software, que, como são orientadas a projetos, acabou gerando uma demanda ainda maior de tempo para a produção com qualidade dos artefatos exigidos.
 
+Outro fator importante para ser citado foi a questão da bibliografia escassa sobre alguns conteúdos, e que isso levou um tempo dos integrantes para buscar fontes confiáveis para se basear e aplicar no projeto. Alguns conteúdos poderiam ser melhor compreendidos se tivessem fontes alternativas e com uma melhor didática da explicação.
+
 #### **Danilo Carvalho**
 
 Para mim a maior dificuldade durante o desenvolvimento do projeto da disciplina de Requisitos foi o gerenciamento do tempo necessário para realizar as entregas. Embora tivéssemos um planejamento detalhado para cada etapa, surgiram diversos imprevistos que comprometeram a pontualidade das entregas dos documentos, afetando tanto os prazos quanto a qualidade dos artefatos produzidos.
@@ -75,7 +78,7 @@ Durante o projeto, tive desafios significativos, principalmente relacionados ao 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 07/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [][] |
+| `1.0`  | 07/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Ricardo A.][RicardoGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
