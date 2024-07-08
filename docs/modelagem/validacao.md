@@ -27,8 +27,8 @@ A validação aconteceu no dia e local especificado abaixo, na tabela 1. O Media
       <td>Microsoft Teams</td>
       <td>
         <a href="https://github.com/claudiohsc">Claudio Henrique</a><br>
-        <a href="https://github.com/pabloheika">Pablo Heika</a><br>
-        Heloísa Santos
+        <a href="https://github.com/pabloheika">Pablo S. Costa</a><br>
+        Heloísa Lima
       </td>
     </tr>
   </tbody>
