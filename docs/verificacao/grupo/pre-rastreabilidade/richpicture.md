@@ -100,15 +100,13 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 8
+    "Incompleto" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -121,6 +119,7 @@ pie
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 29/06/2024 | Criação do documento | [Danilo Carvalho Antunes][DaniloGH] | [Gabriel B. Bertolazi][GabrielBGH] |
+| `1.1`  | 08/07/2024 | Correção do gráfico e fontes vazias | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Claudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes

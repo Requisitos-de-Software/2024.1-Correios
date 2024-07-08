@@ -7,7 +7,7 @@ Este documento apresenta a verificação do artefato da técnica de priorizaçã
 O objetivo deste documento é apresentar e mostrar os erros encontrados no artefato da técnica de priorização [in or out][In or out] do projeto realizado pelo grupo [03 - Correios][Grupo 03 Correios] da matéria de requisitos de software.
 
 ## Metodologia
-A metodologia utilizada para verificar o artefato emprega o método de inspeção através da utilização de um checklist criado usando como base os principais conceitos ministrados na matéria de requisitos e também nas referências citadas ao final do documento. Abaixo temos o checklist que foi criado pelo integrante [Elias F. Oliveira][EliasGH] e preenchido verificando o artefato da técnica de priorização [in or out][In or out] pelo integrante [Pablo S. Costa][PabloGH].
+A metodologia utilizada para verificar o artefato emprega o método de inspeção através da utilização de um checklist criado usando como base os principais conceitos ministrados na matéria de requisitos e também nas referências citadas ao final do documento. Abaixo temos o checklist que foi criado pelo integrante [Elias F. Oliveira][EliasGH] e preenchido verificando o artefato da técnica de priorização [in or out][In or out] pelo integrante [Gabriel B. Bertolazi][GabrielBGH].
 
 ### Checklist In or Out
 
@@ -44,7 +44,7 @@ Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CkyH6Uk45sI?si=iIJh-qHpbX9f8K8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center">Fonte:[][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte:[Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 [Link do Vídeo](https://youtu.be/CkyH6Uk45sI)
 
@@ -103,7 +103,9 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 29/06/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Ricardo Augusto][RicardoGH] |
+| `1.0`  | 29/06/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Gabriel B. Bertolazi][GabrielBGH] | [Ricardo Augusto][RicardoGH] |
+| `1.1`  | 02/07/2024 | Aplicação do checklist | [Gabriel B. Bertolazi][GabrielBGH] | [Ricardo Augusto][RicardoGH] |
+| `1.2`  | 08/07/2024 | Correção de fontes vazias | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Claudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
