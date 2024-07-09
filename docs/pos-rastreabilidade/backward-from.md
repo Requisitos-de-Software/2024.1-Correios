@@ -112,29 +112,31 @@ Legendas:
 | RF40 | Ter um chat para se comunicar diretamente com o fornecedor, e consiga ter as informações básicas do mesmo. | [Q04][QRF] | Não | `1.1` |
 | RF41 | Ter um chat para se comunicar diretamente com o entregador, e consiga ter as informações dos mesmos. | [Q05][QRF] | Não | `1.1` |
 | RF42 | Poder fazer os pagamentos pagamento de tributos e taxas de importação em uma página própria para essa finalidade. | [Q06][QRF] | Não | `1.1` |
-| RF43 | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. | [AD01][QRF] | Não | `1.0` |
-| RF44 | O usuário deve ser notificado quando o recebimento for efetuado. | [AD03][QRF] | Não | `1.0` |
-| RF45 | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | [AD04][QRF] | Não | `1.0` |
-| RF46 | O usuário deve poder mudar local de recebimento da encomenda, antes que a mesma tenha sido enviada. | [AD05][QRF] | Não | `1.1` |
-| RF47 | O usuário pode optar por retirar em uma agência ou caixa postal | [AD06][QRF] | Não | `1.0` |
-| RF48 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | [AD09][QRF] | Sim | `1.0` |
-| RF49 | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem | [AD10][QRF] | Sim | `1.0` |
-| RF50 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | [AD11][QRF] | Não | `1.0` |
-| RF51 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | [AD12][QRF] | Não | `1.0` |
-| RF52 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | [AD14][QRF] | Sim | `1.0` |
-| RF53 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | [AD15][QRF] | Não | `1.0` |
-| RF54 | O Usuário deve ser capaz de gerenciar suas importações | [AD16][QRF] | Não | `1.0` |
-| RF55 | O Usuário deve ser capaz de resolver situações alfandegárias | [AD17][QRF] | Não | `1.0` |
-| RF56 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | [AD18][QRF] | Não | `1.0` |
-| RF57 | O usuário deve ser capaz de inserir novas importações | [AD19][QRF] | Não | `1.0` |
-| RF58 | O usuário deve ter acesso a meios de pagamento de taxas | [AD20][QRF] | Não | `1.0` |
-| RF59 | O usuário deve ser notificado sobre atualizações de importações | [AD21][QRF] |   | `1.0` |
-| RF60 | O usuário deve poder contestar taxas e tributações | [AD22][QRF] | Não | `1.0` |
-| RF61 | O Usuário deve ser capaz de emitir comprovante | [AD23][QRF] | Não | `1.0` |
-| RF62 | O usuário deve ser capaz de emitir DIS | [AD24][QRF] | Não | `1.0` |
-| RF63 | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única. | [AD29][QRF] | Não | `1.1` |
-| RF64 | O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | [AD30][QRF] | Não | `1.1` |
-| RF65 | O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anseios, como: menor preço, maior preço, maior relevância ou menor. | [AD31][QRF] | Não | `1.1` |
+| RF43 | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. | [AD01][ADRF] | Não | `1.0` |
+| RF44 | O usuário deve ser notificado quando o recebimento for efetuado. | [AD03][ADRF] | Não | `1.0` |
+| RF45 | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | [AD04][ADRF] | Não | `1.0` |
+| RF46 | O usuário deve poder mudar local de recebimento da encomenda, antes que a mesma tenha sido enviada. | [AD05][ADRF] | Não | `1.1` |
+| RF47 | O usuário pode optar por retirar em uma agência ou caixa postal | [AD06][ADRF] | Não | `1.0` |
+| RF48 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | [AD09][ADRF] | Sim | `1.0` |
+| RF49 | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem | [AD10][ADRF] | Sim | `1.0` |
+| RF50 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | [AD11][ADRF] | Não | `1.0` |
+| RF51 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | [AD12][ADRF] | Não | `1.0` |
+| RF52 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | [AD14][ADRF] | Sim | `1.0` |
+| RF53 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | [AD15][ADRF] | Não | `1.0` |
+| RF54 | O Usuário deve ser capaz de gerenciar suas importações | [AD16][ADRF] | Não | `1.0` |
+| RF55 | O Usuário deve ser capaz de resolver situações alfandegárias | [AD17][ADRF] | Não | `1.0` |
+| RF56 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | [AD18][ADRF] | Não | `1.0` |
+| RF57 | O usuário deve ser capaz de inserir novas importações | [AD19][ADRF] | Não | `1.0` |
+| RF58 | O usuário deve ter acesso a meios de pagamento de taxas | [AD20][ADRF] | Não | `1.0` |
+| RF59 | O usuário deve ser notificado sobre atualizações de importações | [AD21][ADRF] |   | `1.0` |
+| RF60 | O usuário deve poder contestar taxas e tributações | [AD22][ADRF] | Não | `1.0` |
+| RF61 | O Usuário deve ser capaz de emitir comprovante | [AD23][ADRF] | Não | `1.0` |
+| RF62 | O usuário deve ser capaz de emitir DIS | [AD24][ADRF] | Não | `1.0` |
+| RF63 | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única. | [AD29][ADRF] | Não | `1.1` |
+| RF64 | O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | [AD30][ADRF] | Não | `1.1` |
+| RF65 | O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anseios, como: menor preço, maior preço, maior relevância ou menor. | [AD31][ADRF] | Não | `1.1` |
+| RF66 | O usuário deve poder desistir do pacote. | [AD32][ADRF] | não | `1.0` |
+| RF67 | O usuário deve poder ver o status da importação. | [AD33][ADRF] | não | `1.0` |
 
 </Center>
 
@@ -182,13 +184,13 @@ Legendas:
 | RNF32 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | [Q10][QRNF] | Não | `1.0` |
 | RNF33 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | [Q11][QRNF] | Não | `1.0` |
 | RNF34 | O chat com o entregador deve ser protegido de acessos indevidos (de acordo com as especificações de segurança do [Art. 46](#referencias-bibliograficas) da LGPD) por meio de criptografia AES-256 | [Q12][QRNF] | Não | `1.1` |
-| RNF35 | O usuário deve poder mudar o método de recebimento em até 3 cliques desde iniciar a ação. | [AD02][QRNF] | Não | `1.1` |
-| RNF36 | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. | [AD07][QRNF] | Não | `1.1` |
-| RNF37 | A funcionalidade deve ser aparente na página principal. | [AD08][QRNF] | Não | `1.1` |
-| RNF38 | O usuário deve ser perguntado sobre a confirmação de operações importantes como exclusão de itens do carrinho | [AD13][QRNF] | Sim | `1.0` |
-| RNF39 | As informações devem ser atualizadas em tempo de execução | [AD25][QRNF] | Não | `1.0` |
-| RNF40 | A liberação das encomendas deve ser automática | [AD26][QRNF] | Não | `1.0` |
-| RNF41 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | [AD27][QRNF] | Não | `1.0` |
+| RNF35 | O usuário deve poder mudar o método de recebimento em até 3 cliques desde iniciar a ação. | [AD02][ADRNF] | Não | `1.1` |
+| RNF36 | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. | [AD07][ADRNF] | Não | `1.1` |
+| RNF37 | A funcionalidade deve ser aparente na página principal. | [AD08][ADRNF] | Não | `1.1` |
+| RNF38 | O usuário deve ser perguntado sobre a confirmação de operações importantes como exclusão de itens do carrinho | [AD13][ADRNF] | Sim | `1.0` |
+| RNF39 | As informações devem ser atualizadas em tempo abaixo de 300ms | [AD25][ADRNF] | não | `1.1` |
+| RNF40 | A liberação das encomendas deve ser automática | [AD26][ADRNF] | não | `1.0` |
+| RNF41 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | [AD27][ADRNF] | não | `1.0` |
 
 </Center>
 

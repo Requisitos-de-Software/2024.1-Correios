@@ -159,7 +159,7 @@ Legendas:
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`    | 24/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [Ricardo Augusto](https://www.github.com/avmricardo) |
 | `1.1`    | 20/05/2024 | Adiciona requisitos da análise documental | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [Elias F. Oliveira][EliasGH] |
-| `2.0`    | 01/07/2024 | Atualização da tabela | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [Elias F. Oliveira][EliasGH] |
+| `2.0`    | 01/07/2024 | Atualização da tabela | [Gabriel F. J. Silva](https://github.com/MMcLovin)   | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
