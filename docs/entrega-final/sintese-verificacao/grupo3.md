@@ -170,6 +170,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
     <center>
 
     |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
+    | ----| -----| -----| -----|
     |Artur Rodrigues Alves| 21 anos| Estudante | Muito experiente |
 
     </center>
