@@ -10,7 +10,7 @@ O processo começa com uma análise preliminar para selecionar os documentos mai
 
 A partir da análise documental do projeto realizado pelo Grupo 03 da disciplina de Interação Humano-Computador, foram identificadas funcionalidades presentes no site dos correios (realizar uma pré-postagem, receber encomendas, gerenciar importações e busca por documentos perdidos) que estavam implementadas no aplicativo e passaram desapercebidas pelas técnicas de elicitação utilizadas até então ([Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/), [Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/) e [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)) e outras que não estavam implementadas no aplicativo. 
 
-Com isso, foram elicitados requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), em que, presente na Tabela 02, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta e também adicionamos o ID desse requisito dentro desse artefato,o seu tipo e a atual versão. Ao final da página, também temos as Tabelas 6 e 7 que, respectivamente, agrupam os requisitos funcionais e não-funcionais elicitados, separados em *tabs* que permitem vizualizar a evolução de versões de cada requisito.
+Com isso, foram elicitados requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), em que, presente na Tabela 02, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta e também adicionamos o ID desse requisito dentro desse artefato,o seu tipo e versão, cada seção de requisitos elicitados está separada em *tabs* que permitem vizualizar a evolução de versões de cada requisito, onde apenas os requisitos que sofreram alterações estão presentes nas versões subsequentes. Ao final da página, também temos as Tabelas 8 e 9 que, respectivamente, agrupam os requisitos funcionais e não-funcionais elicitados, em suas versões mais atuais.
 
 Na Tabela 1 abaixo, temos os documentos analisados junto a suas versões e as datas dessas versões
 
@@ -215,7 +215,58 @@ Na Tabela 7 estão os requisitos elicitados para a loja online dos correios.
     </center>
 
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024 </p></font>
-    
+
+### Funcionais
+
+<font size="2"><p style="text-align: center">**Tabela 8**: Requisitos funcionais elicitados. </p></font>
+
+
+| ID  | Requisito elicitado | Tipo | Implementado | Versão |
+| :-: | ------------------- | :--: | :----------: | :----: |
+| AD01 | O usuário deve conseguir mudar a opção de recebimento dentro do aplicativo, antes que sua encomenda seja enviada. | RF | Não | `1.0` |
+| AD03 | O usuário deve ser notificado quando o recebimento for efetuado. | RF | Não | `1.0` |
+| AD04 | O sistema deve permitir que o usuário reserve o locker mais perto de sua casa baseado no CEP informado, de acordo com a disponibilidade | RF | Não | `1.0` |
+| AD05 | O usuário deve poder mudar local de recebimento da encomenda, antes que a mesma tenha sido enviada. | RF | Não | `1.1` |
+| AD06 | O usuário pode optar por retirar em uma agência ou caixa postal | RF | Não | `1.0` |
+| AD09 | O usuário deve ser capaz de realizar uma pré-postagem pelo aplicativo | RF | Sim | `1.0` |
+| AD10 | O usuário deve ser capaz de gerenciar o carrinho de pré-postagens, podendo adicionar ou excluir uma pré-postagem | RF | Sim | `1.0` |
+| AD11 | O usuário poderá pagar uma pré-postagem com cartão de crédito, boleto ou pix | RF | Não | `1.0` |
+| AD12 | O usuário deve ser capaz de adicionar endereços pré-cadastrados ao preencher uma pré-postagem | RF | Não | `1.0` |
+| AD14 | O usuário pode escolher salvar as informações do cartão de crédito para pagamentos futuros | RF | Sim | `1.0` |
+| AD15 | O usuário deve ser capaz de consultar uma seção de achados e perdidos para encontrar documentos | RF | Não | `1.0` |
+| AD16 | O Usuário deve ser capaz de gerenciar suas importações em um só local? | RF | não | `1.1` |
+| AD17 | O Usuário deve ser capaz de resolver situações alfandegárias | RF | não | `1.0` |
+| AD18 | O usuário deve ser capaz de visualizar histórico de situações alfandegárias | RF | não | `1.0` |
+| AD19 | O usuário deve ser capaz de inserir novas importações | RF | não | `1.0` |
+| AD20 | O usuário deve ter acesso a meios de pagamento de taxas | RF | não | `1.0` |
+| AD21 | O usuário deve ser notificado sobre atualizações de importações | RF | não | `1.0` |
+| AD22 | O usuário deve poder contestar taxas e tributações | RF | não | `1.0` |
+| AD23 | O Usuário deve ser capaz de emitir comprovante | RF | não | `1.0` |
+| AD24 | O usuário deve ser capaz de emitir DIS | RF | não | `1.0` |
+| AD29 | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única. | RF | Não | `1.1` |
+| AD30 | O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | RF | Não | `1.1` |
+| AD31 | O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anseios, como: menor preço, maior preço, maior relevância ou menor. | RF | Não | `1.1` |
+| AD32 | O usuário deve poder desistir do pacote. | RF | não | `1.0` |
+| AD33 | O usuário deve poder ver o status da importação. | RF | não | `1.0` |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
+
+### Não-funcionais
+
+<font size="2"><p style="text-align: center">**Tabela 9**: Requisitos não-funcionais elicitados. </p></font>
+
+| ID  | Requisito elicitado | Tipo | Implementado | Versão |
+| :-: | ------------------- | :--: | :----------: | :----: |
+| AD02 | O usuário deve poder mudar o método de recebimento em até 3 cliques desde iniciar a ação. | RNF | Não | `1.1` |
+| AD07 | Os ícones de opção dentro dessa funcionalidade devem ser 44x44 pixels, para melhor visualização de cada um dos ícones para pessoas com leves problemas visuais. | RNF | Não | `1.1` |
+| AD08 | A funcionalidade deve ser aparente na página principal. | RNF | Não | `1.1` |
+| AD13 | O usuário deve ser perguntado sobre a confirmação de operações importantes como exclusão de itens do carrinho | RNF | Sim | `1.0` |
+| AD25 | As informações devem ser atualizadas em tempo abaixo de 300ms | RNF | não | `1.1` |
+| AD26 | A liberação das encomendas deve ser automática | RNF | não | `1.0` |
+| AD27 | Sempre que presente o documento destinatário na encomenda, as importações devem ser inseridas automaticamente | RNF | não | `1.0` |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024 </p></font>
+
 ## Referências
 > 1. Retraining Requirements Enginereeing. Análise de Documentos, 2024. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos. Acesso em: 20 de maio de 2024.
 > 2. Vazquez, Carlos. Simões, Guilherme. Engenharia de Requisitos. Brasport, 2016. Disponível em: .Acesso em: 20 de maio de 2024
@@ -239,6 +290,7 @@ Na Tabela 7 estão os requisitos elicitados para a loja online dos correios.
 | `1.0`  | 20/05/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH] e [Pablo S. Costa][PabloGH]  | [Claudio Henrique](ClaudioGH)  |
 | `1.1`  | 21/06/2024 | Complementa metodologia | [Gabriel F. J. Silva][GabrielFGH] |  |
 | `1.2`  | 23/06/2024 | Correção e versionamentos de requisitos | [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH] e [Pablo S. Costa][PabloGH] |[Claudio Henrique][ClaudioGH]  |
+| `1.3`  | 01/07/2024 | Adiciona resuma de req. elicitados | [Gabriel F. J. Silva][GabrielFGH] |   |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
