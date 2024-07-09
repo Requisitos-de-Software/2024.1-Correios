@@ -25,6 +25,8 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Youtube](../assets/ferramentas_logo/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |   
     | ![Logo do Google Planilhas](../assets/ferramentas_logo/sheets.svg) | Google Planilhas | Produção de tabelas compartilhada para realização do heatmap. |
     | ![Logo do Draw.io](../assets/ferramentas_logo/drawio.png) | Draw.io | Produção do Rich Picture. |
+    | ![Markdown editor](../assets/ferramentas_logo/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
+
 
     </center>
 
@@ -53,6 +55,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Google Forms](../assets/ferramentas_logo/forms.svg) | Google Forms | Produção e distribuição de questionarios para técnica de elicitação. |
     | ![Logo do Google Planilhas](../assets/ferramentas_logo/sheets.svg) | Google Planilhas | Produção de tabelas compartilhada para técnica de priorização first things first. |
     | ![Logo do Draw.io](../assets/ferramentas_logo/drawio.png) | Draw.io | Produção do fluxo de secções da técnica de elicitação questionário. |
+    | ![Markdown editor](../assets/ferramentas_logo/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -79,6 +82,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Telegram](../assets/ferramentas_logo/telegram.png) | Telegram | Comunicação via chat com a equipe |       
     | ![Logo do Youtube](../assets/ferramentas_logo/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |   
     | ![Logo do Draw.io](../assets/ferramentas_logo/drawio.png) | Draw.io | Produção do diagrama de casos de uso. |
+    | ![Markdown editor](../assets/ferramentas_logo/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -104,6 +108,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Telegram](../assets/ferramentas_logo/telegram.png) | Telegram | Comunicação via chat com a equipe |       
     | ![Logo do Youtube](../assets/ferramentas_logo/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |   
     | ![Logo do Draw.io](../assets/ferramentas_logo/drawio.png) | Draw.io | Produção de diagramas para NFR Framework. |
+    | ![Markdown editor](../assets/ferramentas_logo/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -128,6 +133,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas_logo/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas_logo/telegram.png) | Telegram | Comunicação via chat com a equipe |       
     | ![Logo do Youtube](../assets/ferramentas_logo/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |   
+    | ![Markdown editor](../assets/ferramentas_logo/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -152,6 +158,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas_logo/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas_logo/telegram.png) | Telegram | Comunicação via chat com a equipe |       
     | ![Logo do Youtube](../assets/ferramentas_logo/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |   
+    | ![Markdown editor](../assets/ferramentas_logo/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -179,6 +186,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Figma](../assets/ferramentas_logo/figma.png) | Figma | Produção do protótipo de alta fidelidade. |
     | ![Just In Mind](../assets/ferramentas_logo/justinmind.png) | Justinmind | Produção do protótipo de alta fidelidade |
     | ![Gmail](../assets/ferramentas_logo/gmail.svg) | Gmail | Envio de email para validação de protótipos |
+    | ![Markdown editor](../assets/ferramentas_logo/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -203,6 +211,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas_logo/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas_logo/telegram.png) | Telegram | Comunicação via chat com a equipe |       
     | ![Logo do Youtube](../assets/ferramentas_logo/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. | 
+    | ![Markdown editor](../assets/ferramentas_logo/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -236,6 +245,12 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
 > <a id="FRM3" href="#anchor_12">12.</a>  Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](). Acesso em: 08 de jul. de 2024.
 >
 > <a id="FRM3" href="#anchor_13">13.</a>  Justinmind. Disponível em: <https://www.justinmind.com/>. Acesso em: 08 de jul. de 2024.
+>
+> <a id="FRM3" href="#anchor_14">14.</a>  OBS Studio. Disponível em: <https://obsproject.com/pt-br/download>. Acesso em: 08 de jul. de 2024.
+>
+> <a id="FRM3" href="#anchor_15">15.</a>  Online Markdown Editor. Disponível em: <https://onlinemarkdowneditor.dev/>. Acesso em: 08 de jul. de 2024.
+>
+> <a id="FRM3" href="#anchor_16">16.</a>  Gmail. Disponível em: <https://gmail.com>. Acesso em: 08 de jul. de 2024.
 
 
 ## Histórico de Versões

@@ -45,6 +45,7 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 | ![Just In Mind](../assets/ferramentas_logo/justinmind.png) | Justinmind | Produção do protótipo de alta fidelidade |
 | ![Gmail](../assets/ferramentas_logo/gmail.svg) | Gmail | Envio de email para validação de protótipos |
 | ![OBS](../assets/ferramentas_logo/obs.svg) | OBS Studio | Gravação de telas |
+| ![Markdown editor](../assets/ferramentas_logo/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
 </center>
 
@@ -81,6 +82,8 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 > <a id="FRM3" href="#anchor_14">14.</a>  OBS Studio. Disponível em: <https://obsproject.com/pt-br/download>. Acesso em: 08 de jul. de 2024.
 >
 > <a id="FRM3" href="#anchor_15">15.</a>  Online Markdown Editor. Disponível em: <https://onlinemarkdowneditor.dev/>. Acesso em: 08 de jul. de 2024.
+>
+> <a id="FRM3" href="#anchor_16">16.</a>  Gmail. Disponível em: <https://gmail.com>. Acesso em: 08 de jul. de 2024.
 
 ## Histórico de Versões
 
