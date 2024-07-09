@@ -1,7 +1,7 @@
 # Técnicas Utilizadas no Projeto
 
 ## Introdução
-Este artefato apresenta uma tabela geral com todos criado durante o processo de estudo e aplicação dos conceitos da disciplina de Requisitos de Software. Na tabela 1 estará detalhado cada um dos artefatos e quais as respectivas técnicas que foram utilizadas durante o estudo da disciplina, assim como seus responsáveis.
+Este artefato apresenta uma tabela pra cada etapa do projeto com todos os artefatos criados durante a etapa e aplicação dos conceitos da disciplina de Requisitos de Software. Abaixo temos as tabelas com os artefatos, autores e revisores.
 
 ## Artefatos Criados
 
@@ -90,22 +90,7 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
-    | [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo%2B1/elicitacao/perfil_do_usuario/)| [Claudio][ClaudioGH] | [Ricardo][RicardoGH] |
-    | [Termo de Consentimento](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo%2B1/elicitacao/tdu_perfil/)| [Danilo][DaniloGH]  | [Elias F. Oliveira][EliasGH] |
-    | [Personas](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo%2B1/elicitacao/personas/)| [Elias F. Oliveira][EliasGH] | [Danilo][DaniloGH]  |
-    | [Técnicas - Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/)| [Gabriel B.][GabrielBGH] , [Gabriel F.][GabrielFGH] e [Pablo][PabloGH] | [Claudio][ClaudioGH] |
-    | [Técnicas - Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/)| [Elias F. Oliveira][EliasGH] | [Ricardo][RicardoGH] |
-    | [Técnicas - Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/)| [Ricardo][RicardoGH] e [Danilo][DaniloGH]  | [Pablo][PabloGH] |
-    | [Técnicas - Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)| [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] | [Danilo][DaniloGH]  |
-    | [Priorização - $100](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/%24100/)|[Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH]| [Claudio][ClaudioGH] e [Elias F. Oliveira][EliasGH] |
-    | [Priorização - First Things First](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/firstThingsFirst/)| [Ricardo][RicardoGH] e [Pablo][PabloGH] | [Gabriel F.][GabrielFGH] |
-    | [Priorização - In Or Out](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/inorout/)| [Danilo][DaniloGH]  e [Claudio][ClaudioGH] | [Gabriel F.][GabrielFGH] |
-    | [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/)|[Gabriel F.][GabrielFGH]| [Ricardo][RicardoGH] |
-    | [Cenários](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/cenarios/) | [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] | [Ricardo][RicardoGH] |
-    | [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/) | [Ricardo][RicardoGH] e [Pablo][PabloGH] | [Gabriel F.][GabrielFGH] |
-    | [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/validacao/) | [Claudio][ClaudioGH] | [Pablo][PabloGH] |
-    | [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) | [Pablo][PabloGH] e [Danilo][DaniloGH]  | [Elias F. Oliveira][EliasGH] |
-    | [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/) | [Elias F. Oliveira][EliasGH] e [Claudio][ClaudioGH] | [Pablo][PabloGH] |
+    
 
     </center>
 
@@ -127,7 +112,7 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
-=== "Etapa- 5.2 - Verificação Grupo"
+=== "Etapa- 5.2 - Verificação Grupo Correios"
 
      <font size="2"><p style="text-align: center"> Tabela 07: Artefatos da etapa 5.2</p></font>
 
@@ -135,7 +120,36 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
-    ||||
+    |Planejamento Geral| Claudio | Gabriel F. |
+    |**Pré-Rastreabilidade**|  |  |
+    |Planejamento da Verificação| Elias | Gabriel F. |
+    |Rich Picture| Danilo | Gabriel B. |
+    |**Elicitação**|||
+    |Planejamento da Verificação| Elias | Claudio |
+    | Perfil de Usuário | Claudio e Danilo | Gabriel F. |
+    | Termo de Consentimento |  |  |
+    | Personas | Elias | Gabriel B. |
+    | Técnicas - Análise Documental | Ricardo | Elias |
+    | Técnicas - Brainstorming | Gabriel B. | Ricardo |
+    | Técnicas - Observação |  Gabriel F. | Pablo |
+    | Técnicas - Questionário | Pablo | Danilo |
+    | Priorização - $100 | Claudio | Pablo |
+    | Priorização - First Things First | Danilo | Pablo |
+    | Priorização - In Or Out | Elias e Gabriel B. | Ricardo |
+    | Requisitos Elicitados |  |  |
+    |**Modelagem**|||
+    |Planejamento da Verificação| Elias | Gabriel F. |
+    | Cenários | Pablo | Claudio |
+    | Casos de Uso | Gabriel B. | Pablo |
+    | Validação dos Casos de Uso |  |  |
+    | Especificação Suplementar | Gabriel F. | Ricardo |
+    | Léxicos | Ricardo | Claudio |
+    |**Pós-Rastreabilidade**|||
+    |Planejamento da Verificação|||
+    |Planejamento da Verificação| Elias | Danilo |
+    |Backward-From| Gabriel B. | Pablo |
+    |Forward-From| Ricardo | Danilo |
+    |Matriz de Rastreabilidade| Gabriel F. | Claudio |
 
     </center>
 
