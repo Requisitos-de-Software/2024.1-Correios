@@ -388,3 +388,9 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <center>
 
     </center>
+
+## Histórico de versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :----: | :--: | --------- | ----------- | ------ |
+| `1.0`  | 04/07/2024 | Criação do documento |[Gabriel B. Bertolazi][GabrielBGH] | [Gabriel F. J. Silva][GabrielFGH] |
