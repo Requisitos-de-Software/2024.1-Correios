@@ -1,7 +1,7 @@
 # Apresentação 05:
 
 ## Objetivo
-Esta página tem como foco o vídeo de apresentação da etapa 04 do projeto. A apresentação ocorreu no dia 10/06/2024.
+Esta página tem como foco o vídeo de apresentação da etapa 5.1 do projeto. A apresentação ocorreu no dia 10/06/2024.
 
 ## Apresentação
 
