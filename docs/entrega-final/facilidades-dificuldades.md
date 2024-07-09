@@ -31,7 +31,7 @@ A combinação de experiência prévia e habilidades técnicas específicas, com
 
 
 #### **Gabriel Fernando**
-
+As principais facilidades encontradas por mim na disciplina foi a comunicação e entendimento entre os membros do grupo, que acredito que não teria acontecido no mesmo nível caso também não estivéssemos no mesmo grupo da disciplina de Interação Humano-Computador.
 
 #### **Pablo Santos**
 
@@ -64,7 +64,9 @@ Outro desafio significativo foi a busca por conteúdos confiáveis. Encontrar fo
 
 #### **Gabriel Fernando**
 
+Sem dúvidas a maior dificuldade da disciplina foi o gerenciamento do tempo, além de termos tido um semestre atípico, que levou a muitas mudanças no calendário. Outra dificuldade foi a organização dos horários das nossas reuniões, definido com base no heatmap, que foi bastante prejudicado, uma vez que as entregas de Requisitos de Software e Interação Humano-Computador sempre aconteciam no mesmo dia das reuniões e não conseguimos ajustar esse horário, acabando por realizar as últimas reuniões em sala de aula, durante dias dedicados ao desenvolvimento do projeto, mas que creio que não foram tão eficientes quanto as reuniões que realizamos remotamente.
 
+Outra dificiculdade que encontrei foi a dispersão da bibliografia, apesar do ponto positivo de ser exposto à visão de vários autores sobre os mesmos conceitos, isso dificultou a minha organização para o estudo da disciplina. Em contraste, alguns conteúdos possuiam poucas referências e que não eram, na minha opnião, claras o suficiente (destaque para o NRF framework e Meta Modelo de Toranzo).
 
 #### **Pablo Santos**
 
