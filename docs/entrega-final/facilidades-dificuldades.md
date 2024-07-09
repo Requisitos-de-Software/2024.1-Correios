@@ -39,6 +39,7 @@ Durante o projeto de Requisitos de Software, tive algumas facilidades notáveis,
 
 #### **Ricardo Augusto**
 
+Minha maior facilidade ao longo do semestre foi a comunicação com os integrantes do grupo. Essa boa comunicação permitiu uma divisão igual de tarefas, evitando que qualquer integrante ficasse sobrecarregado ou ocioso, além de ajudar na organização e desenvolvimento do projeto. Outro ponto positivo foi a bibliografia utilizada. O principal livro de Interação Humano-Computador de Barbosa e Silva (2021) é bem explicativo e contribuiu significativamente para a organização dos artefatos e para o conteúdo abordado.
 
 ## Dificuldades
 
@@ -74,7 +75,9 @@ Durante o projeto, tive desafios significativos, principalmente relacionados ao 
 
 #### **Ricardo Augusto**
 
+A maior dificuldade que encontrei foi o gerenciamento do tempo. Apesar da boa comunicação e das excelentes referências disponibilizadas para a matéria, ficou evidente que o projeto é bastante trabalhoso e extenso, exigindo muito tempo e organização. A combinação das disciplinas de Interação Humano-Computador e Requisitos de Software apresentou um desafio adicional, já que ambas são orientadas a projetos e demandam bastante esforço.
 
+Diante dessas dificuldades, percebi que o progresso em ambas as disciplinas me ajudou a melhorar meu gerenciamento de tempo. Identifiquei pontos a aprimorar na minha rotina e nas minhas atividades, tornando-me mais eficiente nos estudos e nos trabalhos.
 
 ## Histórico de Versões
 
