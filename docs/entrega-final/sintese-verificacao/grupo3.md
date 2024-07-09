@@ -111,9 +111,254 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 ## Síntese da Validação
 
+=== "Cláudio"
+
+    O aluno Cláudio ficou responsável pelo Chatbot para suporte. Nesse local estará duas tabelas:
+    A tabela 1 terá os partcipantes e a tabela 2 o perfil do usuário.
+
+    <font size="4"><p style="text-align: center">**Participantes**</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
+
+    <center>
+
+    |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
+    |:---:|:----:|:----:|:----:|:----:|:-----:|
+    |[Claudio Henrique][ClaudioGH]| Isabelly Sophia| 22:00|22:05| 30/06/2024| Presencial|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH]</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 2 - Perfil de usuário.</p></font>
+
+    <center>
+
+    |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
+    |:---:|:----:|:----:|:----:|
+    | Isabelly Sophia| 18 Anos| Estudante de Direito| Muito boa|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH]</p></font>
+
+    <font size="4"><p style="text-align: center">**Resultados**</p></font>
+
+    O protótipo foi apresentado à usuária, que interagiu com sucesso e sem problemas de usabilidade. Ao final do processo de interação com o protótipo, foram feitas algumas perguntas sobre a funcionalidade não implementada de um chatbot. As perguntas visavam saber se a usuária tinha encontrado algum tipo de dificuldade na interação e se a funcionalidade seria útil dentro do aplicativo. Com isso, obteve-se um resultado satisfatório, onde não houve dificuldades de interação com o protótipo e a funcionalidade foi considerada útil no aplicativo, tanto para responder às principais dúvidas quanto para facilitar o contato com um atendente real.
+
+=== "Danilo"
+
+    O aluno Danilo ficou responsável pelo Chat com entregador/fornecedor. Nesse local estará duas tabelas:
+    A tabela 3 terá os partcipantes e a tabela 4 o perfil do usuário.
+
+    <font size="4"><p style="text-align: center">**Participantes**</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 3 - Cronograma da Entrevista de Validação.</p></font> 
+
+    <center>
+
+    |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
+    |:---:|:----:|:----:|:----:|:----:|:-----:|
+    |[Danilo Carvalho Antunes][DaniloGH]| Nome do Entrevistado| 23:00|23:05| 30/06/2024| Teams|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes][DaniloGH]</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 4 - Perfil de usuário.</p></font>   
+
+    <center>
+
+    |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
+    |Artur Rodrigues Alves| 21 anos| Estudante | Muito experiente |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes][DaniloGH]</p></font>
+
+
+    <font size="4"><p style="text-align: center">**Resultados**</p></font>
+
+    Foi bem avaliado pelo entrevistado/usuário.
+
+=== "Elias"
+
+    O aluno Cláudio ficou responsável pela Loja online. Nesse local estará duas tabelas:
+    A tabela 5 terá os partcipantes e a tabela 6 o perfil do usuário.
+
+    <font size="4"><p style="text-align: center">**Participantes**</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 5 - Cronograma da Entrevista de Validação.</p></font> 
+
+    <center>
+
+    |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
+    |:---:|:----:|:----:|:----:|:----:|:-----:|
+    |[Elias F. Oliveira][EliasGH]| Thalia Faria | 21:00| 21:20 | 29/06/2024| Presencial|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH]</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 6 - Perfil de usuário.</p></font>   
+
+    <center>
+
+    |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
+    |:---:|:----:|:----:|:----:|
+    |Thalia Faria | 26 anos | Estudante |Média / Alta|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH]</p></font>
+
+    <font size="4"><p style="text-align: center">**Resultados**</p></font>
+
+    A participante avaliou positivamente as duas funcionaildades implementadasque são descritas nos requisitos funcionais [AD30]((https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais)) e [AD31](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais) não encontrando nenhuma inconsistência nas funcionalidades apresentadas no protótipo, a participante também não sugeriu nenhuma outra alteração ou nova funcionalidade para melhorar a realização das tarefas representadas no projeto.
 
 
 
+=== "Gabriel B."
+
+    O aluno GAbriel B. Bertolazi ficou responsável pela Mudança de tipo de recebimento. Nesse local estará duas tabelas:
+    A tabela 7 terá os partcipantes e a tabela 8 o perfil do usuário.
+
+    <font size="4"><p style="text-align: center">**Participantes**</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 7 - Cronograma da Entrevista de Validação.</p></font> 
+
+    <center>
+
+    |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
+    |:---:|:----:|:----:|:----:|:----:|:-----:|
+    |[Gabriel B. Bertolazi][GabrielBGH]| Alexandre Vieira | 15:40|15:50| 01/07/2024| Presencial|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH]</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 8 - Perfil de usuário.</p></font>   
+
+    <center>
+
+    |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
+    |:---:|:----:|:----:|:----:|
+    |Alexandre Vieira| 20 anos | Aluno de engenharia de software | Boa |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH]</p></font>
+
+    <font size="4"><p style="text-align: center">**Resultados**</p></font>
+
+    O partcipante não demonstrou dificuldade em realizar as operações do sistema, demonstrando faclidade em encontrar a funcinalidade e executá-la com sucesso, não acahndo nenhum problema e nenhuma alteração para se fazer na funcionalidade e nos requisitos avaliados.
+
+=== "Gabriel F."
+
+    O aluno Gabriel F. J. Silva ficou responsável pelo Adicionar endereços cadastrados em uma pré-postagem. Nesse local estará duas tabelas:
+    A tabela 9 terá os partcipantes e a tabela 10 o perfil do usuário.
+
+    <font size="4"><p style="text-align: center">**Participantes**</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 9 - Cronograma da Entrevista de Validação.</p></font> 
+
+    <center>
+
+    | Avaliador | Entrevistado | Horário de Início | Horário de Término | Data | Local |
+    | :-------: | :----------: | :---------------: | :----------------: | :--: | :---: |
+    | [Gabriel F. J. Silva][GabrielFGH] | Samuel Ribeiro | 17:16 | 17:20 | 01/07/2024 | FGA-UnB |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH]</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 10 - Perfil de usuário.</p></font>   
+
+    <center>
+
+    | Nome | Idade | Ocupação | Experiência e facilidade com tecnologia |
+    | :--: | :---: | :------: | :-------------------------------------: |
+    | Samuel Ribeiro | 21 anos | Estudante | Muito Boa |    
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH]</p></font>
+
+    <font size="4"><p style="text-align: center">**Resultados**</p></font>
+
+    
+    O participante ficou satisfeito com a implementação da funcionaildade implementada,  [RF51](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/matriz/#requisitos-funcionais) ou [AD12](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/#realizar-uma-pre-postagem), não encontrando nenhuma inconsistência ou sugestão de melhoria para a funcionalidade.
+
+=== "Pablo"
+
+    O aluno Paablo ficou responsável pelo Minhas importações. Nesse local estará duas tabelas:
+    A tabela 11 terá os partcipantes e a tabela 12 o perfil do usuário.
+
+    <font size="4"><p style="text-align: center">**Participantes**</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 11 - Cronograma da Entrevista de Validação.</p></font> 
+
+    <center>
+
+    |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
+    |:---:|:----:|:----:|:----:|:----:|:-----:|
+    | [Pablo S. Costa][PabloGH] | Diego Medeiros dos Santos | 16:35 | 16:50 | 01/07/2024| Estúdio de gravação do entrevistado |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH]</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 12 - Perfil de usuário.</p></font>   
+
+    <center>
+
+    |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
+    |:---:|:----:|:----:|:----:|
+    | Diego Medeiros dos Santos | 34 anos | Influenciador digital | Boa |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH]</p></font>
+
+    <font size="4"><p style="text-align: center">**Resultados**</p></font>
+
+    Durante a entrevista o usuário mexeu com bastante facilidade e demonstrou aptidão para resolver o que foi proposto, em seus relatos não foi encontrados problemas de interface ou usabilidade e não houve sugestão de melhorias e seguindo os resultados desta avaliação não há necessidade de reprojeto.
+
+
+=== "Ricardo"
+
+    O aluno Ricardo ficou responsável pelo Visualizar encomenda no mapa. Nesse local estará duas tabelas:
+    A tabela 13 terá os partcipantes e a tabela 14 o perfil do usuário.
+
+    <font size="4"><p style="text-align: center">**Participantes**</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 3 - Cronograma da Entrevista de Validação.</p></font> 
+
+    <center>
+
+    |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
+    |:---:|:----:|:----:|:----:|:----:|:-----:|
+    |[Ricardo Augusto][RicardoGH]| Johnny Lopes | 00:00|00:00| 01/07/2024| Teams|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 4 - Perfil de usuário.</p></font>   
+
+    <center>
+
+    |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
+    |:---:|:----:|:----:|:----:|
+    | Johnny Lopes | 23 anos | Estudante | Muito boa |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+    <font size="4"><p style="text-align: center">**Resultados**</p></font>
+
+    O participante demonstrou facilidade em utilizar a funcionalidade, a parte de achar o caminho e os botões do sistema estavam bem intuitivas assim como a navegação pelo aplicativo.
 
 ## Referências Bibliográficas
 
