@@ -371,7 +371,7 @@ Nenhum porblema foi encontrado na história HSU15
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 10/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | []() |
+| `1.0`  | 10/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [Gbariel F. J. Silva][GabrielFGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
