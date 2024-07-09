@@ -44,6 +44,7 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 | ![Logo do Figma](../assets/ferramentas_logo/figma.png) | Figma | Produção do protótipo de alta fidelidade. |
 | ![Just In Mind](../assets/ferramentas_logo/justinmind.png) | Justinmind | Produção do protótipo de alta fidelidade |
 | ![Gmail](../assets/ferramentas_logo/gmail.svg) | Gmail | Envio de email para validação de protótipos |
+| ![OBS](../assets/ferramentas_logo/obs.svg) | OBS Studio | Gravação de telas |
 
 </center>
 
@@ -76,7 +77,10 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 > <a id="FRM3" href="#anchor_12">12.</a>  Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](). Acesso em: 08 de jul. de 2024.
 >
 > <a id="FRM3" href="#anchor_13">13.</a>  Justinmind. Disponível em: <https://www.justinmind.com/>. Acesso em: 08 de jul. de 2024.
-
+>
+> <a id="FRM3" href="#anchor_14">14.</a>  OBS Studio. Disponível em: <https://obsproject.com/pt-br/download>. Acesso em: 08 de jul. de 2024.
+>
+> <a id="FRM3" href="#anchor_15">15.</a>  Online Markdown Editor. Disponível em: <https://onlinemarkdowneditor.dev/>. Acesso em: 08 de jul. de 2024.
 
 ## Histórico de Versões
 
