@@ -225,7 +225,21 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 ### Executado
 
-*EM BREVE...*
+<font size="2"><p style="text-align: center;">
+    <b>Tabela 11</b> - Planejamento da entrega 5.2
+</p></font> 
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| **Criação/Ajuste de checklists** | Início: 25/06<br>Fim: 30/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 30/06 Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | 
+| **Prototipação** | Início: 25/06<br>Fim: 30/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 25/06 Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | 
+| **Ata de Reunião** | Início: 27/06<br>Fim: 27/06 | Ricardo | Início: 27/06 Fim: 27/06 | Cláudio |
+| **Confirmação informal** | Início: 30/06<br>Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 01/07 Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | 
+| **Confirmação formal** | Início: 28/06<br>Fim: 28/06 | Cláudio | Início: 28/06 Fim: 28/06 | Elias | 
+| **Gravação da apresentação** | Início: 01/07<br>Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 01/07 Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| **Correções pós apresentação** | Início: 01/07<br>Fim: 01/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 08/07 Fim: 08/07 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ## Entrega 6 - Pós-Rastreabilidade - Gerência II
  
@@ -322,7 +336,7 @@ Disponível em:
 | `1.6` | 20/05/2024 | Ajuste Cronograma planejado e Adiciona cronograma executado da entrega 3  | [Elias](https://github.com/EliasOliveira21) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|
 | `1.7` | 27/05/2024 | Ajuste Cronograma planejado e Adiciona cronograma executado da entrega 4  | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias](https://github.com/EliasOliveira21)|
 | `1.8` | 24/06/2024 | Adiciona cronograma executado da entrega 6 | [Elias](https://github.com/EliasOliveira21) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-| `1.9` | 08/07/2024 | Atualiza cronograma da entrega final e Adiciona cronograma executado da entrega final | [Pablo S. Costa][PabloGH] | [Gabriel F. J. Silva](https://github.com/MMcLovin) |
+| `1.9` | 08/07/2024 | Atualiza cronograma da entrega final e Adiciona executado da entrega 5.2 e final | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Pablo S. Costa][PabloGH] | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
