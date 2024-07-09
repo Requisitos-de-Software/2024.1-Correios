@@ -59,6 +59,8 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 10 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
+| `1.1`  | 08/07/2024 | Padroniza nome dos membros | [Gabriel F. J. Silva][GabrielFGH] | [Danilo Carvalho][DaniloGH]  |
+
 
 
 

@@ -78,6 +78,7 @@ Não ouve gravação da reunião.
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 20/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] | [Ricardo Augusto][RicardoGH] |
+| `1.1`  | 08/07/2024 | Padroniza nome dos membros | [Gabriel F. J. Silva][GabrielFGH] | [Danilo Carvalho][DaniloGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
