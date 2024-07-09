@@ -9,109 +9,137 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
 
+    <center>
+
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
-    | [Equipe](https://requisitos-de-software.github.io/2024.1-Correios/)| Danilo | Claudio, Danilo, Elias, Gabriel B., Gabriel F., Pablo e Ricardo |
-    | [Aplicativo Escolhido](https://requisitos-de-software.github.io/2024.1-Correios/planejamento/aplicativoEscolhido/) | Ricardo |  Claudio |
-    | [Heatmap](https://requisitos-de-software.github.io/2024.1-Correios/planejamento/heatmap/) | Pablo | Ricardo |
-    | [Termo de Uso](https://requisitos-de-software.github.io/2024.1-Correios/planejamento/termodeuso/) | Danilo | Pablo |
-    | [Ferramentas](https://requisitos-de-software.github.io/2024.1-Correios/planejamento/ferramentas/) | Danilo | Ricardo e Pablo |
-    | [Rich Picture](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/richpicture/) | Claudio | Ricardo |
-    | [Aplicativos Avaliados](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/appsavaliados/) | Gabriel B. | Danilo |
+    | [Equipe](https://requisitos-de-software.github.io/2024.1-Correios/)| [Danilo][DaniloGH] | [Claudio][ClaudioGH], [Danilo][DaniloGH] , [Elias F. Oliveira][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo][PabloGH] e [Ricardo][RicardoGH] |
+    | [Aplicativo Escolhido](https://requisitos-de-software.github.io/2024.1-Correios/planejamento/aplicativoEscolhido/) | [Ricardo][RicardoGH] |  [Claudio][ClaudioGH] |
+    | [Heatmap](https://requisitos-de-software.github.io/2024.1-Correios/planejamento/heatmap/) | [Pablo][PabloGH] | [Ricardo][RicardoGH] |
+    | [Termo de Uso](https://requisitos-de-software.github.io/2024.1-Correios/planejamento/termodeuso/) | [Danilo][DaniloGH]  | [Pablo][PabloGH] |
+    | [Ferramentas](https://requisitos-de-software.github.io/2024.1-Correios/planejamento/ferramentas/) | [Danilo][DaniloGH]  | [Ricardo][RicardoGH] e [Pablo][PabloGH] |
+    | [Rich Picture](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/richpicture/) | [Claudio][ClaudioGH] | [Ricardo][RicardoGH] |
+    | [Aplicativos Avaliados](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/appsavaliados/) | [Gabriel B.][GabrielBGH] | [Danilo][DaniloGH]  |
 
-    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 === "Etapa-02"
 
-     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
+     <font size="2"><p style="text-align: center"> Tabela 02: Artefatos da etapa 02</p></font>
+
+     <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
-    |[Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/perfil_de_usuario/perfil_de_usuario/)| Elias | Ricardo |
-    |[Personas](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/personas/)| Pablo | Ricardo |
-    |[Técnicas - Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/)| Gabriel B. , Gabriel F. e Pablo | Claudio |
-    |[Técnicas - Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/)| Elias | Ricardo |
-    |[Técnicas - Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/)| Ricardo e Danilo | Pablo |
-    |[Técnicas - Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)| Gabriel B. e Gabriel F. | Danilo |
-    |[Priorização - $100](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/%24100/)|Gabriel B. e Gabriel F.| Claudio e Elias |
-    |[Priorização - First Things First](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/firstThingsFirst/)| Ricardo e Pablo | Gabriel F. |
-    |[Priorização - In Or Out](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/inorout/)| Danilo e Claudio | Gabriel F. |
-    |[Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/)|Gabriel F.| Ricardo |
+    |[Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/perfil_de_usuario/perfil_de_usuario/)| [Elias F. Oliveira][EliasGH] | [Ricardo][RicardoGH] |
+    |[Personas](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/personas/)| [Pablo][PabloGH] | [Ricardo][RicardoGH] |
+    |[Técnicas - Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/)| [Gabriel B.][GabrielBGH] , [Gabriel F.][GabrielFGH] e [Pablo][PabloGH] | [Claudio][ClaudioGH] |
+    |[Técnicas - Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/)| [Elias F. Oliveira][EliasGH] | [Ricardo][RicardoGH] |
+    |[Técnicas - Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/)| [Ricardo][RicardoGH] e [Danilo][DaniloGH]  | [Pablo][PabloGH] |
+    |[Técnicas - Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)| [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] | [Danilo][DaniloGH]  |
+    |[Priorização - $100](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/%24100/)|[Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH]| [Claudio][ClaudioGH] e [Elias F. Oliveira][EliasGH] |
+    |[Priorização - First Things First](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/firstThingsFirst/)| [Ricardo][RicardoGH] e [Pablo][PabloGH] | [Gabriel F.][GabrielFGH] |
+    |[Priorização - In Or Out](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/inorout/)| [Danilo][DaniloGH]  e [Claudio][ClaudioGH] | [Gabriel F.][GabrielFGH] |
+    |[Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/)|[Gabriel F.][GabrielFGH]| [Ricardo][RicardoGH] |
+
+    </center>
     
-    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>    
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>    
 
 === "Etapa-03"
 
-     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
+     <font size="2"><p style="text-align: center"> Tabela 03: Artefatos da etapa 03</p></font>
+
+     <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
-    | [Cenários](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/cenarios/) | Gabriel B. e Gabriel F. | Ricardo |
-    | [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/) | Ricardo e Pablo | Gabriel F. |
-    | [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/validacao/) | Claudio | Pablo |
-    | [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) | Pablo e Danilo | Elias |
-    | [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/) | Elias e Claudio | Pablo |
+    | [Cenários](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/cenarios/) | [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] | [Ricardo][RicardoGH] |
+    | [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/) | [Ricardo][RicardoGH] e [Pablo][PabloGH] | [Gabriel F.][GabrielFGH] |
+    | [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/validacao/) | [Claudio][ClaudioGH] | [Pablo][PabloGH] |
+    | [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) | [Pablo][PabloGH] e [Danilo][DaniloGH]  | [Elias F. Oliveira][EliasGH] |
+    | [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/) | [Elias F. Oliveira][EliasGH] e [Claudio][ClaudioGH] | [Pablo][PabloGH] |
 
-    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 === "Etapa-04"
 
-     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
+     <font size="2"><p style="text-align: center"> Tabela 04: Artefatos da etapa 04</p></font>
+
+     <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
-    | [Ágil - Backlog](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/backlog/) | Claudio e Danilo | Gabriel F. |
-    | [Ágil - Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/historias_de_usuario/) | Gabriel B. ,Gabriel F. e Pablo | Ricardo |
-    | [Ágil - NFR Framework](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/nfr-framework/) | Elias e Ricardo | Pablo |
+    | [Ágil - Backlog](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/backlog/) | [Claudio][ClaudioGH] e [Danilo][DaniloGH]  | [Gabriel F.][GabrielFGH] |
+    | [Ágil - Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/historias_de_usuario/) | [Gabriel B.][GabrielBGH] ,[Gabriel F.][GabrielFGH] e [Pablo][PabloGH] | [Ricardo][RicardoGH] |
+    | [Ágil - NFR Framework](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/nfr-framework/) | [Elias F. Oliveira][EliasGH] e [Ricardo][RicardoGH] | [Pablo][PabloGH] |
 
-    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 === "Etapa - 5.1 - Verificação Grupo+1"
 
-    <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
+    <font size="2"><p style="text-align: center"> Tabela 05: Artefatos da etapa 5.1</p></font>
+
+    <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
-    | [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo%2B1/elicitacao/perfil_do_usuario/)| Claudio | Ricardo |
-    | [Termo de Consentimento](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo%2B1/elicitacao/tdu_perfil/)| Danilo | Elias |
-    | [Personas](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo%2B1/elicitacao/personas/)| Elias | Danilo |
-    | [Técnicas - Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/)| Gabriel B. , Gabriel F. e Pablo | Claudio |
-    | [Técnicas - Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/)| Elias | Ricardo |
-    | [Técnicas - Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/)| Ricardo e Danilo | Pablo |
-    | [Técnicas - Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)| Gabriel B. e Gabriel F. | Danilo |
-    | [Priorização - $100](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/%24100/)|Gabriel B. e Gabriel F.| Claudio e Elias |
-    | [Priorização - First Things First](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/firstThingsFirst/)| Ricardo e Pablo | Gabriel F. |
-    | [Priorização - In Or Out](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/inorout/)| Danilo e Claudio | Gabriel F. |
-    | [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/)|Gabriel F.| Ricardo |
-    | [Cenários](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/cenarios/) | Gabriel B. e Gabriel F. | Ricardo |
-    | [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/) | Ricardo e Pablo | Gabriel F. |
-    | [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/validacao/) | Claudio | Pablo |
-    | [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) | Pablo e Danilo | Elias |
-    | [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/) | Elias e Claudio | Pablo |
+    | [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo%2B1/elicitacao/perfil_do_usuario/)| [Claudio][ClaudioGH] | [Ricardo][RicardoGH] |
+    | [Termo de Consentimento](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo%2B1/elicitacao/tdu_perfil/)| [Danilo][DaniloGH]  | [Elias F. Oliveira][EliasGH] |
+    | [Personas](https://requisitos-de-software.github.io/2024.1-Correios/verificacao/grupo%2B1/elicitacao/personas/)| [Elias F. Oliveira][EliasGH] | [Danilo][DaniloGH]  |
+    | [Técnicas - Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/)| [Gabriel B.][GabrielBGH] , [Gabriel F.][GabrielFGH] e [Pablo][PabloGH] | [Claudio][ClaudioGH] |
+    | [Técnicas - Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/)| [Elias F. Oliveira][EliasGH] | [Ricardo][RicardoGH] |
+    | [Técnicas - Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/)| [Ricardo][RicardoGH] e [Danilo][DaniloGH]  | [Pablo][PabloGH] |
+    | [Técnicas - Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)| [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] | [Danilo][DaniloGH]  |
+    | [Priorização - $100](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/%24100/)|[Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH]| [Claudio][ClaudioGH] e [Elias F. Oliveira][EliasGH] |
+    | [Priorização - First Things First](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/firstThingsFirst/)| [Ricardo][RicardoGH] e [Pablo][PabloGH] | [Gabriel F.][GabrielFGH] |
+    | [Priorização - In Or Out](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/inorout/)| [Danilo][DaniloGH]  e [Claudio][ClaudioGH] | [Gabriel F.][GabrielFGH] |
+    | [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/)|[Gabriel F.][GabrielFGH]| [Ricardo][RicardoGH] |
+    | [Cenários](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/cenarios/) | [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] | [Ricardo][RicardoGH] |
+    | [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/) | [Ricardo][RicardoGH] e [Pablo][PabloGH] | [Gabriel F.][GabrielFGH] |
+    | [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/validacao/) | [Claudio][ClaudioGH] | [Pablo][PabloGH] |
+    | [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) | [Pablo][PabloGH] e [Danilo][DaniloGH]  | [Elias F. Oliveira][EliasGH] |
+    | [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/) | [Elias F. Oliveira][EliasGH] e [Claudio][ClaudioGH] | [Pablo][PabloGH] |
 
-    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 === "Etapa- 6 - Pós-Rastreabilidade"
 
-     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
+     <font size="2"><p style="text-align: center"> Tabela 06: Artefatos da etapa 06</p></font>
+
+     <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
-    |Backward-From| Claudio, Gabriel F. e Ricardo | Danilo |
-    |Forward-From| Elias e Gabriel B. | Gabriel F. |
-    |Matriz de Rastreabilidade| Pablo e Danilo | Elias |
+    |Backward-From| [Claudio][ClaudioGH], [Gabriel F.][GabrielFGH] e [Ricardo][RicardoGH] | [Danilo][DaniloGH]  |
+    |Forward-From| [Elias F. Oliveira][EliasGH] e [Gabriel B.][GabrielBGH] | [Gabriel F.][GabrielFGH] |
+    |Matriz de Rastreabilidade| [Pablo][PabloGH] e [Danilo][DaniloGH]  | [Elias F. Oliveira][EliasGH] |
 
-    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+    </center>
 
-=== "Etapa- 5.2"
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
-     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
+=== "Etapa- 5.2 - Verificação Grupo"
+
+     <font size="2"><p style="text-align: center"> Tabela 07: Artefatos da etapa 5.2</p></font>
+
+     <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
     ||||
 
-    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ## Bibliografia
 

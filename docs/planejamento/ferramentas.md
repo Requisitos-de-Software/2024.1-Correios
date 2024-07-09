@@ -43,10 +43,11 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 | ![Logo do Draw.io](../assets/ferramentas_logo/drawio.png) | Draw.io | Produção de diagramas UML. |
 | ![Logo do Figma](../assets/ferramentas_logo/figma.png) | Figma | Produção do protótipo de alta fidelidade. |
 | ![Just In Mind](../assets/ferramentas_logo/justinmind.png) | Justinmind | Produção do protótipo de alta fidelidade |
+| ![Gmail](../assets/ferramentas_logo/gmail.svg) | Gmail | Envio de email para validação de protótipos |
 
 </center>
 
- <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+ <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [Pablo S. Costa](https://github.com/pabloheika), [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ## Bibliografia
 

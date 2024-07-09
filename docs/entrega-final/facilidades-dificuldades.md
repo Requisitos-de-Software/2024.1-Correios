@@ -35,7 +35,7 @@ As principais facilidades encontradas por mim na disciplina foi a comunicação 
 
 #### **Pablo Santos**
 
-Durante o projeto, tive facilidades principalmente na comunicação e entendimento entre os membros do grupo, o que foi possível devido ao fato de estarmos no mesmo grupo em outra disciplina. Além disso, a divisão igualitária das tarefas entre os integrantes do grupo contribuiu para que nenhum membro fosse sobrecarregado.
+Durante o projeto de Requisitos de Software, tive algumas facilidades notáveis, o grupo demonstrou uma comunicação aberta e eficaz, o que facilitou a troca de informações, alinhamento de objetivos e resolução de dúvidas; a distribuição de tarefas foi um ponto positivo, pois, com um grupo comunicativo, conseguimos atribuir responsabilidades de forma equilibrada e eficiente; a proatividade de todos contribuiu para o progresso contínuo do projeto, sendo fundamental a iniciativa em buscar soluções e antecipar desafios para o sucesso alcançado.
 
 #### **Ricardo Augusto**
 
