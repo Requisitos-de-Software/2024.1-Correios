@@ -7,6 +7,8 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
 === "Etapa-01 "
 
+    <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
+
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
     | [Equipe](https://requisitos-de-software.github.io/2024.1-Correios/)| Danilo | Claudio, Danilo, Elias, Gabriel B., Gabriel F., Pablo e Ricardo |
@@ -17,7 +19,11 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     | [Rich Picture](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/richpicture/) | Claudio | Ricardo |
     | [Aplicativos Avaliados](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/appsavaliados/) | Gabriel B. | Danilo |
 
+    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+
 === "Etapa-02"
+
+     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -32,7 +38,11 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     |[Priorização - In Or Out](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/inorout/)| Danilo e Claudio | Gabriel F. |
     |[Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/)|Gabriel F.| Ricardo |
     
+    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>    
+
 === "Etapa-03"
+
+     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -42,7 +52,11 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     | [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) | Pablo e Danilo | Elias |
     | [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/) | Elias e Claudio | Pablo |
 
+    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+
 === "Etapa-04"
+
+     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -50,7 +64,11 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     | [Ágil - Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/historias_de_usuario/) | Gabriel B. ,Gabriel F. e Pablo | Ricardo |
     | [Ágil - NFR Framework](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/nfr-framework/) | Elias e Ricardo | Pablo |
 
+    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+
 === "Etapa - 5.1 - Verificação Grupo+1"
+
+    <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -71,7 +89,11 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     | [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) | Pablo e Danilo | Elias |
     | [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/) | Elias e Claudio | Pablo |
 
+    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+
 === "Etapa- 6 - Pós-Rastreabilidade"
+
+     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -79,11 +101,17 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     |Forward-From| Elias e Gabriel B. | Gabriel F. |
     |Matriz de Rastreabilidade| Pablo e Danilo | Elias |
 
+    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+
 === "Etapa- 5.2"
+
+     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
     ||||
+
+    <font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
 
 ## Bibliografia
 
