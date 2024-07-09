@@ -477,7 +477,8 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 09/06/2024 | Criação do documento |  [Danilo Carvalho][DaniloGH] | [Gabriel Fernando][GabrielFGH]  |
+| `1.0`  | 09/06/2024 | Criação do documento |  [Danilo Carvalho][DaniloGH] | [Gabriel F. J. Silva][GabrielFGH]  |
+| `1.1`  | 08/07/2024 | Padroniza nome dos membros | [Gabriel F. J. Silva][GabrielFGH] | [Danilo Carvalho][DaniloGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes

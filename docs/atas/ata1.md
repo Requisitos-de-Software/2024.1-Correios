@@ -13,10 +13,10 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 <label><input type="checkbox" checked disabled>[Cláudio Henrique][ClaudioGH]</label><br>
 <label><input type="checkbox" checked disabled>[Danilo Carvalho][DaniloGH]</label><br>
-<label><input type="checkbox" disabled>[Elias Faria][EliasGH]</label><br>
-<label><input type="checkbox" checked disabled>[Gabriel Bertolazi][GabrielBGH]</label><br>
-<label><input type="checkbox" disabled>[Gabriel Fernando][GabrielFGH]</label><br>
-<label><input type="checkbox" checked disabled>[Pablo Santos][PabloGH]</label><br>
+<label><input type="checkbox" disabled>[Elias F. Oliveira][EliasGH]</label><br>
+<label><input type="checkbox" checked disabled>[Gabriel B. Bertolazi][GabrielBGH]</label><br>
+<label><input type="checkbox" disabled>[Gabriel F. J. Silva][GabrielFGH]</label><br>
+<label><input type="checkbox" checked disabled>[Pablo S. Costa][PabloGH]</label><br>
 <label><input type="checkbox" checked disabled> [Ricardo Augusto][RicardoGH]</label><br>
 
 ## Informações da reunião
@@ -62,9 +62,11 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 29 / 03 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Gabriel Fernando][GabrielFGH]
+|`1.0`| 29 / 03 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Gabriel F. J. Silva][GabrielFGH]
 |`1.1`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Ajustes em formatação | [Claudio Henrique](https://github.com/claudiohsc)
 |`1.2`| 11 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Adicionando introdução | [Claudio Henrique](https://github.com/claudiohsc)
+| `1.3`  | 08/07/2024 | Padroniza nome dos membros | [Gabriel F. J. Silva][GabrielFGH] | [Danilo Carvalho][DaniloGH]  |
+
 
 
 

@@ -54,7 +54,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 09/06/2024 | Criação do documento |[Gabriel B. Bertolazi](https://github.com/Bertolazi) | []() |
+| `1.0`  | 09/06/2024 | Criação do documento |[Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Gbariel F. J. Silva][GabrielFGH] |
 
 
 

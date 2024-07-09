@@ -3,12 +3,14 @@
         width: 90px;
     }
 }
-
 p{
     text-align: justify;
 }
 body{
     text-align: justify;
+}
+blockquote p{
+    text-align: left !important;
 }
 .md-nav{
     text-align: left;
