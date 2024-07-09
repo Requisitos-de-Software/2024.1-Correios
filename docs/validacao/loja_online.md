@@ -94,7 +94,7 @@ A participante avaliou positivamente as duas funcionaildades implementadasque s�
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/07/2024 | Criação do documento | [Elias F. Oliveira][EliasGH] | [Ricardo][RicardoGH] |
+| `1.0`  | 01/07/2024 | Criação do documento | [Elias F. Oliveira][EliasGH] | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes

@@ -129,6 +129,19 @@ nav:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
     - Matriz de Rastreabilidade: pos-rastreabilidade/matriz.md
+  - Entrega Final:
+    - App Escolhido: entrega-final/aplicativo-escolhido.md
+    - Planejamento: entrega-final/Planejamento.md
+    - Execução do Projeto: entrega-final/execucao-projeto.md
+    - Os resultados alcançados com a execução do projeto: entrega-final/resultados.md
+    - Técnicas Utilizadas: entrega-final/tecnicas-utilizadas.md
+    - Artefatos Criados em Cada Etapa: entrega-final/artefatos-criados.md
+    - Síntese das Verificações e Validação: 
+      - Grupo+1: entrega-final/sintese-verificacao/grupo+1.md
+      - Grupo 3: entrega-final/sintese-verificacao/grupo3.md
+    - Ferramentas Utilizadas: entrega-final/ferramentas.md
+    - Vídeos das Apresentações: entrega-final/videos.md
+    - Facilidades e Dificuldades: entrega-final/facilidades-dificuldades.md
   
 
 extra_css:

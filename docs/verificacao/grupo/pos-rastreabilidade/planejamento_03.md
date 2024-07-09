@@ -17,9 +17,9 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
-|Pós-Rastreabilidade| Backward-from	 | `1.0`|23/06/2024| [Claudio H][ClaudioGH], [Gabriel F.][GabrielFGH] e  [Ricardo A.][RicardoGH] | [Danilo C.][DaniloGH]  |
-|Pós-Rastreabilidade| Forward-from	 | `1.0`|23/06/2024| [Elias F.][EliasGH] e [Gabriel B.][GabrielBGH]  | [Pablo S.][PabloGH] |
-|Pós-Rastreabilidade| Matriz de Rastreabilidade | `1.0`|24/06/2024| [Pablo S.][PabloGH] e [Danilo C.][DaniloGH] |  [Elias F.][EliasGH]  |
+|Pós-Rastreabilidade| Backward-from	 | `1.0`|23/06/2024| [Claudio Henrique][ClaudioGH], [Gabriel F. J. Silva][GabrielFGH] e  [Ricardo Augusto][RicardoGH] | [Danilo C.][DaniloGH]  |
+|Pós-Rastreabilidade| Forward-from	 | `1.0`|23/06/2024| [Elias F. Oliveira][EliasGH] e [Gabriel B. Bertolazi][GabrielBGH]  | [Pablo S. Costa][PabloGH] |
+|Pós-Rastreabilidade| Matriz de Rastreabilidade | `1.0`|24/06/2024| [Pablo S. Costa][PabloGH] e [Danilo C.][DaniloGH] |  [Elias F. Oliveira][EliasGH]  |
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 

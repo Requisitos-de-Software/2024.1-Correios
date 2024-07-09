@@ -53,7 +53,7 @@ Abaixo, é possível ver imagens do protótipo de alta fidelidade feito para o r
 
 ## Aspestos Práticos
 
-A entrevista foi conduzida pelo integrante [Ricardo][RicardoGH], e o entrevistado foi o Johnny. A avaliação foi realizada com os seguintes materiais:
+A entrevista foi conduzida pelo integrante [Ricardo Augusto][RicardoGH], e o entrevistado foi o Johnny. A avaliação foi realizada com os seguintes materiais:
 
 - Notebook;
 - [Termo de Consentimento](../assets/Termo_de_consentimento-imagem&voz.pdf);
