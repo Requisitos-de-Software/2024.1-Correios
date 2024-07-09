@@ -24,16 +24,16 @@ Aqui será apresentado os resultados do checklist, na tabela 1, e logo após as 
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|1| O artefato possui uma explicação sobre o que é o Perfil do Usuário? | Sim | <a href="#ref1">REF1</a>. pg 166 |
-|2| Foram utilizados entrevistas ou questionários, para coletar dados para o perfil de usuário?| Sim  |  <a href="#ref1">REF1</a>. pg 166|
-|3 | Com os dados coletados é possível identificar características de interesse(cargo, nível de instrução, atividades principais, faixa etária, experiência)?| Incompleto | <a href="#ref1">REF1</a>. pg 166|
+|1| O artefato possui uma explicação sobre o que é o Perfil do Usuário? | Sim | <a href="#ref1">REF1</a>. [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png) |
+|2| Foram utilizados entrevistas ou questionários, para coletar dados para o perfil de usuário?| Sim  |  <a href="#ref1">REF1</a>. [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png) |
+|3 | Com os dados coletados é possível identificar características de interesse(cargo, nível de instrução, atividades principais, faixa etária, experiência)?| Incompleto | <a href="#ref1">REF1</a>. [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png) |
 | 4| A partir dos dados coletados, é possível agrupar os valores em grupos e faixas na qual os usuários se encaixam? |Sim | <a href="#ref1">REF1</a>. pg 166|
-| 5| Foi coletado dados sobre tarefas primárias realizadas no aplicativo? | Sim | <a href="#ref1">REF1</a>. pg 166|
-| 6| A formulação das perguntas foi cuidadosa, evitando ambiguidades e mal-entendidos? |Sim | <a href="#ref1">REF1</a>. pg 149|
+| 5| Foi coletado dados sobre tarefas primárias realizadas no aplicativo? | Sim | <a href="#ref1">REF1</a>. [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png) |
+| 6| A formulação das perguntas foi cuidadosa, evitando ambiguidades e mal-entendidos? |Sim | <a href="#ref1">REF1</a>. [pg 149](../../../assets/prints_verificacao/claudio/pg149-perguntas.png)|
 |7| O questionário apresenta perguntas abertas e fechadas, na tentativa de obter informações mais detalhadas? |Sim |  <a href="#ref1">REF1</a>. pg 151 |
 |8| O perfil de usuário considera a faixa etária dos usuários? |Sim | <a href="#ref1">REF1</a>. pg 166|
-|9| O perfil de usuário abrange informações sobre a experiência dos usuários? |Sim | <a href="#ref1">REF1</a>. pg 166|
-|10| O perfil de usuário avalia a relação dos usuários com a tecnologia? | Sim| <a href="#ref1">REF1</a>. pg 166|
+|9| O perfil de usuário abrange informações sobre a experiência dos usuários? |Sim | <a href="#ref1">REF1</a>. [pg 166](../../../assets/prints_verificacao/claudio/pg166-perfil.png)|
+|10| O perfil de usuário avalia a relação dos usuários com a tecnologia? | Sim| <a href="#ref1">REF1</a>.  [pg 166](../../../assets/prints_verificacao/claudio/pg166-tecnologia.png)|
 |11| O perfil de usuário descreve as atividades principais dos usuários? | Sim| <a href="#ref1">REF1</a>. pgs 150,166|
 |12| Foi definido e informado o prazo para o preenchimento do questionário?|Sim | <a href="#ref1">REF1</a>. pg 150|
 
@@ -65,8 +65,6 @@ Abaixo no Vídeo 1, está a gravação dessa verificação.
 
 > 1<a id="ref1">.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-
-> 2. SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 020): Identificação das Partes, Verificação e Validação. UnB Gama, Brasília, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845073/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em 06/06/2024.
 
 ## Histórico de Versões
 
