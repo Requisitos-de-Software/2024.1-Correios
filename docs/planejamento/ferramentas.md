@@ -24,20 +24,32 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 
 <font size="2"><p style="text-align: center"><b>Tabela 2</b> - Ferramentas Utilizadas no Projeto</p></font> 
 
-| Logo   |        Ferramenta         |                             Finalidade                               |
-| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/telegram.png" width="100" height=auto>|<strong> Telegram| Comunicação do grupo via mensagens.<a id="TEC1" href="#RP1"></a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/vscode.png"  width="100" height=auto>|<strong> Visual Studio Code| Criação dos arquivos de documentação.<a id="TEC1" href="#RP1"></a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/github.png"  width="100" height=auto>|<strong> GitHub | Organizar e armazenar os artefatos produzidos para o projeto ao longo do semestre.<a id="TEC1" href="#RP1"></a> |               
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/mkdocs.png"  width="100" height=auto>|<strong> MkDocs  |  Criação das páginas de documentação.<a id="TEC1" href="#RP1"></a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/gsheets.png"  width="100" height=auto>|<strong> Google Planilhas   |  Criação de planilhas de planejamento como heatmap.<a id="TEC1" href="#RP1"></a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/teams.png"  width="100" height=auto>|<strong> Microsoft Teams   |  Realização de reuniões e gravação das entregas.<a id="TEC1" href="#RP1"></a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/youtube.png"  width="100" height=auto>|<strong> YouTube   |  Hospedagem das reuniões e entregas da disciplina.<a id="TEC1" href="#RP1"></a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/figma.png"  width="100" height=auto>|<strong> Figma   |  Criação de diagramas e Rich Picture e produção de artefatos gráficos.<a id="TEC1" href="#RP1"></a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/drawio.png"  width="100" height=auto>|<strong> Drawio   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1"></a> |
-|<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/personnotexist.png"  width="100" height=auto>|<strong> This Person Doesn't Exist   |  Geração de fotos para as personas.<a id="TEC1" href="#RP1"></a> |
+<center class="img_ferramentas">
 
- <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+|Logo|Ferramenta|Finalidade|
+| :-: | - | - |
+| ![Notebook](../assets/ferramentas_logo/notebook.jpg) | Notebook | Desevolvimento do projeto|
+| ![Smartphone](../assets/ferramentas_logo/celular.jpg) | Smartphone | Comunicação entre a equipe |
+| ![Git](../assets/ferramentas_logo/git.png) | Git | Controle de versionamento de código |
+| ![Logo Github](../assets/ferramentas_logo/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
+| ![Logo do Microsoft Teams](../assets/ferramentas_logo/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
+| ![Logo do Mfdocs](../assets/ferramentas_logo/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
+| ![Logo do Visual Studio Code](../assets/ferramentas_logo/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
+| ![Logo do Telegram](../assets/ferramentas_logo/telegram.png) | Telegram | Comunicação via chat com a equipe |       
+| ![Logo do Youtube](../assets/ferramentas_logo/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |   
+| ![Logo do TPDNE](../assets/ferramentas_logo/personnotexist.jpg) | This person does not exist | Geração de imagens para as personas do projeto. |  
+| ![Logo do Google Forms](../assets/ferramentas_logo/forms.svg) | Google Forms | Produção e distribuição de questionarios e formularios online. |
+| ![Logo do Google Planilhas](../assets/ferramentas_logo/sheets.svg) | Google Planilhas | Produção de tabelas compartilhada para realização do heatmap. |
+| ![Logo do Draw.io](../assets/ferramentas_logo/drawio.png) | Draw.io | Produção de diagramas UML. |
+| ![Logo do Figma](../assets/ferramentas_logo/figma.png) | Figma | Produção do protótipo de alta fidelidade. |
+| ![Just In Mind](../assets/ferramentas_logo/justinmind.png) | Justinmind | Produção do protótipo de alta fidelidade |
+| ![Gmail](../assets/ferramentas_logo/gmail.svg) | Gmail | Envio de email para validação de protótipos |
+| ![OBS](../assets/ferramentas_logo/obs.svg) | OBS Studio | Gravação de telas |
+| ![Markdown editor](../assets/ferramentas_logo/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
+
+</center>
+
+ <font size="2"><p style="text-align: center">Fonte: [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [Pablo S. Costa](https://github.com/pabloheika), [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -59,14 +71,34 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 >
 > <a id="FRM3" href="#anchor_9">9.</a> Draw.io. Disponível em: [https://www.drawio.com/](). Acessado em: 01 de abril. de 2024.
 >
-> <a id="FRM3" href="#anchor_9">10.</a> This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/pt](). Acessado em: 17 de abril. de 2024.
-
+> <a id="FRM3" href="#anchor_10">10.</a> This Person Does Not Exist. Disponível em: [https://this-person-does-not-exist.com/pt](). Acessado em: 17 de abril. de 2024.
+>
+> <a id="FRM3" href="#anchor_11">11.</a> Git. Disponível em: <https://git-scm.com/>. Acesso em: 08 de jul. de 2024.
+>
+> <a id="FRM3" href="#anchor_12">12.</a>  Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](). Acesso em: 08 de jul. de 2024.
+>
+> <a id="FRM3" href="#anchor_13">13.</a>  Justinmind. Disponível em: <https://www.justinmind.com/>. Acesso em: 08 de jul. de 2024.
+>
+> <a id="FRM3" href="#anchor_14">14.</a>  OBS Studio. Disponível em: <https://obsproject.com/pt-br/download>. Acesso em: 08 de jul. de 2024.
+>
+> <a id="FRM3" href="#anchor_15">15.</a>  Online Markdown Editor. Disponível em: <https://onlinemarkdowneditor.dev/>. Acesso em: 08 de jul. de 2024.
+>
+> <a id="FRM3" href="#anchor_16">16.</a>  Gmail. Disponível em: <https://gmail.com>. Acesso em: 08 de jul. de 2024.
 
 ## Histórico de Versões
 
-| Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
-| :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :----: | :--: | --------- | ----------- | ------ |
 |  `1.0`  | 01/04/2024 | Criação da página de ferramentas. | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo) & [Pablo S. Costa](https://github.com/pabloheika)
 |  `1.1`  | 01/04/2024 | Adiconando as Imagens para as Logos | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Ricardo A. V. Maciel](https://github.com/avmricardo)
 |  `1.2`  | 01/04/2024 | Correção de estrutura de texto. | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [Pablo S. Costa](https://github.com/pabloheika)
-|  `1.3`  | 17/04/2024 | Adiciona ferramenta | [Pablo S. Costa](https://github.com/pabloheika) |  [Ricardo Augusto](https://www.github.com/avmricardo)
+|  `1.3`  | 17/04/2024 | Adiciona ferramenta | [Pablo S. Costa](https://github.com/pabloheika) |  [Ricardo Augusto](https://www.github.com/avmricardo) |
+| `1.4` | 08/07/2024 | Ajustes e adicionando ferramentas | [Ricardo Augusto][RicardoGH] | [Pablo S. Costa][PabloGH] |
+
+[ClaudioGH]: https://github.com/claudiohsc
+[DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo

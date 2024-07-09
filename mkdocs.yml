@@ -10,6 +10,7 @@ nav:
     - Apresentação 04: Apresentações/Apresentação_04.md
     - Apresentação 05: Apresentações/Apresentação_05.md
     - Apresentação 06: Apresentações/Apresentação_06.md
+    - Apresentação 07: Apresentações/Apresentação_07.md
   - Atas:
     - Reunião 1: atas/ata1.md
     - Reunião 2: atas/ata2.md
@@ -75,10 +76,72 @@ nav:
           - Backlog: verificacao/grupo+1/modelagem/agil/backlog.md
           - Histórias de Usuário: verificacao/grupo+1/modelagem/agil/historias_de_usuario.md
           - NFR Framework: verificacao/grupo+1/modelagem/agil/nfrframework.md
+    - Grupo:
+      - Planejamento Geral:  verificacao/grupo/planejamento_geral.md
+      - Pré-Rastreabilidade:
+        - Planejamento da Verificação: verificacao/grupo/pre-rastreabilidade/planejamento_04.md
+        - Rich Picture: verificacao/grupo/pre-rastreabilidade/richpicture.md
+      - Elicitação:
+        - Planejamento da Verificação: verificacao/grupo/elicitacao/planejamento_01.md
+        - Perfil de Usuário: verificacao/grupo/elicitacao/perfil_usuario.md
+        - Personas: verificacao/grupo/elicitacao/personas.md
+        - Técnicas:
+          - Análise Documental: verificacao/grupo/elicitacao/tecnicas/analise-documental.md
+          - Brainstorming: verificacao/grupo/elicitacao/tecnicas/brainstorming.md
+          - Observação: verificacao/grupo/elicitacao/tecnicas/observacao.md
+          - Questionário: verificacao/grupo/elicitacao/tecnicas/quest.md
+        - Priorização: 
+          - $100: verificacao/grupo/elicitacao/priorizacao/100usd.md
+          - First Things First: verificacao/grupo/elicitacao/priorizacao/firstthingfirst.md
+          - In Or Out: verificacao/grupo/elicitacao/priorizacao/in_or_out.md
+      - Modelagem:
+        - Planejamento da Verificação: verificacao/grupo/modelagem/planejamento_02.md
+        - Cenários: verificacao/grupo/modelagem/cenarios.md
+        - Casos de Uso: 
+          - Calcular preços e prazos de entrega: verificacao/grupo/modelagem/casos_de_uso/Calcular_precos_e_orazos.md
+          - Relaizar compras na loja online: verificacao/grupo/modelagem/casos_de_uso/Realizar_compras.md
+          - Mudar locais de recebimento de pacotes: verificacao/grupo/modelagem/casos_de_uso/Muda_locais.md
+          - Relizar pré-postagem: verificacao/grupo/modelagem/casos_de_uso/Pre_postagem.md
+          - Gerenciar minhas importações: verificacao/grupo/modelagem/casos_de_uso/Minhas_importacoes.md
+          - Rastrear encomendas: verificacao/grupo/modelagem/casos_de_uso/Rastrear_encomendas.md
+          - Buscar por documentos perdidos: verificacao/grupo/modelagem/casos_de_uso/Busca_por_documentos.md
+        - Especificação Suplementar: verificacao/grupo/modelagem/especificacao_suplementar.md
+        - Léxicos: verificacao/grupo/modelagem/lexicos.md
+        - Ágil:
+          - Backlog: verificacao/grupo/modelagem/agil/backlog.md
+          - Histórias de Usuário: verificacao/grupo/modelagem/agil/historias_de_usuario.md
+          - NFR Framework: verificacao/grupo/modelagem/agil/nfr.md
+      - Pós-Rastreabilidade:
+        - Planejamento da Verificação: verificacao/grupo/pos-rastreabilidade/planejamento_03.md
+        - Backward-From: verificacao/grupo/pos-rastreabilidade/backward-from.md
+        - Forward-From: verificacao/grupo/pos-rastreabilidade/forward-from.md
+        - Matriz de Rastreabilidade: verificacao/grupo/pos-rastreabilidade/matriz.md
+  - Validação:
+    - Loja Online: validacao/loja_online.md 
+    - Chatbot para suporte : validacao/chatbot.md
+    - Minhas importações: validacao/importacoes.md
+    - Adicionar endereços cadastrados em uma pré-postagem: validacao/pre-postagem.md
+    - Visualizar encomenda no mapa: validacao/rastreamento-mapa.md
+    - Mudar recebimento: validacao/muda-recebimento.md
+    - Chat Fornecedor/Entregador: validacao/chats_for_ent.md
+    - Comprovação informal: validacao/comprovacao-informal.md
   - Pós-Rastreabilidade:
     - Backward-From: pos-rastreabilidade/backward-from.md
     - Forward-From: pos-rastreabilidade/forward-from.md
     - Matriz de Rastreabilidade: pos-rastreabilidade/matriz.md
+  - Entrega Final:
+    - App Escolhido: entrega-final/aplicativo-escolhido.md
+    - Planejamento: entrega-final/Planejamento.md
+    - Execução do Projeto: entrega-final/execucao-projeto.md
+    - Os resultados alcançados com a execução do projeto: entrega-final/resultados.md
+    - Técnicas Utilizadas: entrega-final/tecnicas-utilizadas.md
+    - Artefatos Criados em Cada Etapa: entrega-final/artefatos-criados.md
+    - Síntese das Verificações e Validação: 
+      - Grupo+1: entrega-final/sintese-verificacao/grupo+1.md
+      - Grupo 3: entrega-final/sintese-verificacao/grupo3.md
+    - Ferramentas Utilizadas: entrega-final/ferramentas.md
+    - Vídeos das Apresentações: entrega-final/videos.md
+    - Facilidades e Dificuldades: entrega-final/facilidades-dificuldades.md
   
 
 extra_css:
@@ -112,6 +175,11 @@ extra:
     property: G-41DM9F5YEC
 
 markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true

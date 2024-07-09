@@ -274,7 +274,7 @@ Legendas:
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel Fernando][GabrielFGH] e [Ricardo Augusto][RicardoGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH] e [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ### Requisitos Não-funcionais
 
@@ -345,8 +345,8 @@ Legendas:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 23/06/2024 | Criação do documento | [Cláudio Henrique](https://github.com/pabloheika), [Gabriel Fernando][GabrielFGH], [Ricardo Augusto][RicardoGH]  | [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes  |
-| `1.1`  | 01/07/2024 | Corrigi links e requisitos | [Gabriel Fernando][GabrielFGH] | |
+| `1.0`  | 23/06/2024 | Criação do documento | [Cláudio Henrique](https://github.com/pabloheika), [Gabriel F. J. Silva][GabrielFGH], [Ricardo Augusto][RicardoGH]  | [DaniloGH][ https://github.com/Danilo-Carvalho-Antunes]  |
+| `1.1`  | 08/07/2024 | Padroniza nome dos membros | [Gabriel F. J. Silva][GabrielFGH] | [Danilo Carvalho][DaniloGH]  |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
