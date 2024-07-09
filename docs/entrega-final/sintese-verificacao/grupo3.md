@@ -376,6 +376,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | --------- | ----- | ------- | 
 | `1.0`  | 08/07/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH]  | [Claudio Henrique][ClaudioGH]   |
+| `1.0`  | 08/07/2024 | Adicionando as validações | [Gabriel B. Bertolaz][GabrielBGH]  | [Danielo][DaniloGH]   |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
