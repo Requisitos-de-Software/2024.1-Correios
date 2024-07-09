@@ -9,6 +9,8 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
 
+    <center>
+
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
     | [Equipe](https://requisitos-de-software.github.io/2024.1-Correios/)| [Danilo][DaniloGH] | [Claudio][ClaudioGH], [Danilo][DaniloGH] , [Elias F. Oliveira][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo][PabloGH] e [Ricardo][RicardoGH] |
@@ -19,11 +21,15 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     | [Rich Picture](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/richpicture/) | [Claudio][ClaudioGH] | [Ricardo][RicardoGH] |
     | [Aplicativos Avaliados](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/appsavaliados/) | [Gabriel B.][GabrielBGH] | [Danilo][DaniloGH]  |
 
+    </center>
+
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 === "Etapa-02"
 
      <font size="2"><p style="text-align: center"> Tabela 02: Artefatos da etapa 02</p></font>
+
+     <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -37,12 +43,16 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     |[Priorização - First Things First](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/firstThingsFirst/)| [Ricardo][RicardoGH] e [Pablo][PabloGH] | [Gabriel F.][GabrielFGH] |
     |[Priorização - In Or Out](https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/inorout/)| [Danilo][DaniloGH]  e [Claudio][ClaudioGH] | [Gabriel F.][GabrielFGH] |
     |[Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/)|[Gabriel F.][GabrielFGH]| [Ricardo][RicardoGH] |
+
+    </center>
     
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>    
 
 === "Etapa-03"
 
      <font size="2"><p style="text-align: center"> Tabela 03: Artefatos da etapa 03</p></font>
+
+     <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -52,11 +62,15 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     | [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) | [Pablo][PabloGH] e [Danilo][DaniloGH]  | [Elias F. Oliveira][EliasGH] |
     | [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/) | [Elias F. Oliveira][EliasGH] e [Claudio][ClaudioGH] | [Pablo][PabloGH] |
 
+    </center>
+
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 === "Etapa-04"
 
      <font size="2"><p style="text-align: center"> Tabela 04: Artefatos da etapa 04</p></font>
+
+     <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -64,11 +78,15 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     | [Ágil - Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/historias_de_usuario/) | [Gabriel B.][GabrielBGH] ,[Gabriel F.][GabrielFGH] e [Pablo][PabloGH] | [Ricardo][RicardoGH] |
     | [Ágil - NFR Framework](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/nfr-framework/) | [Elias F. Oliveira][EliasGH] e [Ricardo][RicardoGH] | [Pablo][PabloGH] |
 
+    </center>
+
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 === "Etapa - 5.1 - Verificação Grupo+1"
 
     <font size="2"><p style="text-align: center"> Tabela 05: Artefatos da etapa 5.1</p></font>
+
+    <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -89,11 +107,15 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     | [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) | [Pablo][PabloGH] e [Danilo][DaniloGH]  | [Elias F. Oliveira][EliasGH] |
     | [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/) | [Elias F. Oliveira][EliasGH] e [Claudio][ClaudioGH] | [Pablo][PabloGH] |
 
+    </center>
+
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 === "Etapa- 6 - Pós-Rastreabilidade"
 
      <font size="2"><p style="text-align: center"> Tabela 06: Artefatos da etapa 06</p></font>
+
+     <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -101,15 +123,21 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
     |Forward-From| [Elias F. Oliveira][EliasGH] e [Gabriel B.][GabrielBGH] | [Gabriel F.][GabrielFGH] |
     |Matriz de Rastreabilidade| [Pablo][PabloGH] e [Danilo][DaniloGH]  | [Elias F. Oliveira][EliasGH] |
 
+    </center>
+
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
-=== "Etapa- 5.2"
+=== "Etapa- 5.2 - Verificação Grupo"
 
      <font size="2"><p style="text-align: center"> Tabela 07: Artefatos da etapa 5.2</p></font>
+
+     <center>
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
     ||||
+
+    </center>
 
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
