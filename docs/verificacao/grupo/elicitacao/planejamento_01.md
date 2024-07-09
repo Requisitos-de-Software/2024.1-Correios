@@ -17,15 +17,15 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
-|Elicitação| Perfil de Usuário	 | `1.2`|23/04/2024|[Elias F.][EliasGH] |  [Danilo C.][DaniloGH]|
-|Elicitação| Personas | `1.0`|16/04/2024|  [Pablo S.][PabloGH] | [Claudio H][ClaudioGH] |
-|Elicitação| Técnicas - Análise documental | `1.2`|23/06/2024| [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] |[Claudio H.][ClaudioGH] | 
-|Elicitação| Técnicas - Brainstorming		 | `1.4`|23/06/2024| [Claudio H][ClaudioGH] e  [Elias F.][EliasGH] | [Gabriel F.][GabrielFGH]|
-|Elicitação| Técnicas - Observação | `1.1`|23/06/2024| [Danilo C.][DaniloGH] e [Ricardo A.][RicardoGH] | [Gabriel B.][GabrielBGH]|
-|Elicitação| Técnicas - Questionário | `1.0`|12/05/2024|  [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] | [Pablo S.][PabloGH] |
-|Elicitação| Priorização - $100	 | `1.0`|21/04/2024|  [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Ricardo A.][RicardoGH] |
-|Elicitação| Priorização - First things first | `1.0`|24/04/2024|  [Ricardo A.][RicardoGH] e [Pablo S.][PabloGH]  |  [Gabriel F.][GabrielFGH]  |
-|Elicitação| Priorização - In or Out | `1.0`|22/04/2024|  [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH] | [Gabriel B.][GabrielBGH] |
+|Elicitação| Perfil de Usuário	 | `1.2`|23/04/2024|[Elias F. Oliveira][EliasGH] |  [Danilo C.][DaniloGH]|
+|Elicitação| Personas | `1.0`|16/04/2024|  [Pablo S. Costa][PabloGH] | [Claudio Henrique][ClaudioGH] |
+|Elicitação| Técnicas - Análise documental | `1.2`|23/06/2024| [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] |[Claudio Henrique][ClaudioGH] | 
+|Elicitação| Técnicas - Brainstorming		 | `1.4`|23/06/2024| [Claudio Henrique][ClaudioGH] e  [Elias F. Oliveira][EliasGH] | [Gabriel F. J. Silva][GabrielFGH]|
+|Elicitação| Técnicas - Observação | `1.1`|23/06/2024| [Danilo C.][DaniloGH] e [Ricardo Augusto][RicardoGH] | [Gabriel B. Bertolazi][GabrielBGH]|
+|Elicitação| Técnicas - Questionário | `1.0`|12/05/2024|  [Gabriel B. Bertolazi][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH] | [Pablo S. Costa][PabloGH] |
+|Elicitação| Priorização - $100	 | `1.0`|21/04/2024|  [Gabriel B. Bertolazi][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH] |[Ricardo Augusto][RicardoGH] |
+|Elicitação| Priorização - First things first | `1.0`|24/04/2024|  [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH]  |  [Gabriel F. J. Silva][GabrielFGH]  |
+|Elicitação| Priorização - In or Out | `1.0`|22/04/2024|  [Claudio Henrique][ClaudioGH]  e [Danilo C.][DaniloGH] | [Gabriel B. Bertolazi][GabrielBGH] |
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
@@ -62,7 +62,7 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 26/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] | [Claudio H.][ClaudioGH] |
+|`1.0`| 26/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] | [Claudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes

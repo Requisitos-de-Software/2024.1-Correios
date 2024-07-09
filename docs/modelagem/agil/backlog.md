@@ -138,7 +138,8 @@ Eu, como usuário, desejo buscar agências próximas e acessar contatos das empr
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/05/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] & [Danilo Carvalho][DaniloGH]| [Gabriel Fernando][GabrielFGH]  |
+| `1.0`  | 25/05/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] & [Danilo Carvalho][DaniloGH]| [Gabriel F. J. Silva][GabrielFGH]  |
+| `1.1`  | 08/07/2024 | Padroniza nome dos membros | [Gabriel F. J. Silva][GabrielFGH] | [Danilo Carvalho][DaniloGH]  |
 
 
 [ClaudioGH]: https://github.com/claudiohsc

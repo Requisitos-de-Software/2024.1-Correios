@@ -58,7 +58,7 @@ Até o presente momento (01/07/2024) não foram obtidas respostas da empresa dos
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Ricardo A.][RicardoGH] |
+| `1.0`  | 01/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes

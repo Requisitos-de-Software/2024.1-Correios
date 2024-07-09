@@ -57,4 +57,4 @@ Não foram encontrados problemas relevantes no backlog, porém, um ponto que nã
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 09/06/2024 | Criação do documento |[Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
+| `1.0`  | 09/06/2024 | Criação do documento |[Gabriel F. J. Silva](https://github.com/MMcLovin) | [Danilo Carvalho][DaniloGH] |

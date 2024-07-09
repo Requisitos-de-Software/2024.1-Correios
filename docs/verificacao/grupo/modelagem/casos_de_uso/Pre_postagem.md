@@ -4,7 +4,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Ca
 
 ## Metodologia
 
-Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielBGH] e verificado por [Pablo][PabloGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 14/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielBGH] e verificado por [Pablo S. Costa][PabloGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 14/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 <p align="center" > <strong> Tabela 1 - </strong>Especificação do Caso de uso</font></p>
 
@@ -38,7 +38,7 @@ Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielBGH] e verificado 
 |**06**| É detalhado dentro dos casos de uso os passos em ordem que acontecem dentro do caso de uso? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | 
 |**07**| É possível perceber as condições para esse caso de uso acontecer? | Sim | <a id="anchor_1" href="#REF1">^1^</a> | 
 
-<font size="3"><p style="text-align: center">Fonte: [Pablo][PabloGH], 2024</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024</p></font>
 
 ### Gravação da verificação
 
@@ -90,7 +90,7 @@ pie
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo][PabloGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 
 ## Bibliografia
@@ -101,7 +101,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/07/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Claudio H.][ClaudioGH]|
+| `1.0`  | 01/07/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Claudio Henrique][ClaudioGH]|
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
