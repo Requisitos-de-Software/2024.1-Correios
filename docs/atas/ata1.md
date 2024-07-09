@@ -65,6 +65,8 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 |`1.0`| 29 / 03 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Gabriel F. J. Silva][GabrielFGH]
 |`1.1`| 01 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Ajustes em formatação | [Claudio Henrique](https://github.com/claudiohsc)
 |`1.2`| 11 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Adicionando introdução | [Claudio Henrique](https://github.com/claudiohsc)
+| `1.3`  | 08/07/2024 | Padroniza nome dos membros | [Gabriel F. J. Silva][GabrielFGH] | [Danilo Carvalho][DaniloGH]  |
+
 
 
 

@@ -75,6 +75,8 @@ Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 01/07/2024 | Criação do documento | [Danilo Carvalho Antunes][DaniloGH] | [Elias F. Oliveira][EliasGH] |
+| `1.1`  | 08/07/2024 | Padroniza nome dos membros | [Gabriel F. J. Silva][GabrielFGH] | [Danilo Carvalho][DaniloGH]  |
+
 
 [ClaudioGH]: https://github.com/claudiohsc
 [DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
