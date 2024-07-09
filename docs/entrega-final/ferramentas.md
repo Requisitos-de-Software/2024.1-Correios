@@ -23,7 +23,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas_logo/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas_logo/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas_logo/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
-    | ![Logo do Google Planilhas](../assets/ferramentas_logo/gsheets.png) | Google Planilhas | Produção de tabelas compartilhada para realização do heatmap. |
+    | ![Logo do Google Planilhas](../assets/ferramentas_logo/sheets.svg) | Google Planilhas | Produção de tabelas compartilhada para realização do heatmap. |
     | ![Drawio](../assets/ferramentas_logo/drawio.png) | Draw.io | Produção do rich picture |
 
     </center>
@@ -49,7 +49,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas_logo/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas_logo/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas_logo/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
-    | ![Logo do Google Planilhas](../assets/ferramentas_logo/gsheets.png) | Google Planilhas | Produção de tabelas compartilhada para realização do heatmap. |
+    | ![Logo do Google Planilhas](../assets/ferramentas_logo/sheets.svg) | Google Planilhas | Produção de tabelas compartilhada para realização do heatmap. |
     | ![Logo do Google Forms](../assets/ferramentas_logo/forms.svg) | Google Forms | Produção e distribuição de questionarios e formularios online. |
     | ![Logo do TPDNE](../assets/ferramentas_logo/personnotexist.jpg) | This person does not exist | Geração de imagens para as personas do projeto. |
     | ![Logo do Draw.io](../assets/ferramentas_logo/drawio.png) | Draw.io | Produção de diagramas UML. |
