@@ -38,6 +38,7 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/figma.png"  width="100" height=auto>|<strong> Figma   |  Criação de diagramas e Rich Picture e produção de artefatos gráficos.<a id="TEC1" href="#RP1"></a> |
 |<img src="https://github.com/Requisitos-de-Software/2024.1-Serasa/raw/main/docs/assets/ferramentas_logo/drawio.png"  width="100" height=auto>|<strong> Drawio   |  Criação de diagramas e Rich Picture.<a id="TEC1" href="#RP1"></a> |
 | ![teste](../assets/ferramentas_logo/personnotexist.jpg) | This Person Does Not Exist |  Geração de fotos para as personas.<a id="TEC1" href="#RP1"></a> |
+| ![Logo do Google Forms](../assets/ferramentas_logo/forms.svg) | Google Forms | Produção e distribuição de questionarios e formularios online. |
 
 </center>
 
