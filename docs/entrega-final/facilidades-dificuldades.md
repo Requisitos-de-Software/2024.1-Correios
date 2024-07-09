@@ -24,6 +24,8 @@ A combinação de experiência prévia e habilidades técnicas específicas, com
 
 #### **Elias Faria**
 
+No decorrer do semestre, na realização deste projeto da matéria de IHC, foi perceptível o engajamento e a proatividade do grupo como um todo, facilitando todo o desenvolvimento, desde a fase de planejamento com o nosso cronograma até as fases finais e mais complexas do projeto. A união do grupo nos proporcionou uma maior facilidade na divisão de responsabilidades pelos artefatos e no apoio para a compreensão do conteúdo em questão. Outro fator que, para mim, nos auxiliou positivamente foi a bibliografia apresentada pelo professor, como o livro IHC da Simone Barbosa de 2021, que apresenta o conteúdo de uma forma simples e aprofundada, facilitando a absorção do conteúdo e a realização dos artefatos necessários para o projeto.
+
 
 
 #### **Gabriel Bertolazi**
@@ -57,7 +59,7 @@ Outro desafio significativo foi a busca por conteúdos confiáveis. Encontrar fo
 
 #### **Elias Faria**
 
-
+No decorrer do semestre, as maiores dificuldades foram principalmente a organização e o gerenciamento do tempo necessário para a matéria, levando em conta as entregas semanais e o quão laboriosos eram alguns dos artefatos de certas entregas. Também tivemos alguns obstáculos para realizar etapas como os artefatos de validação, perfil de usuário e relato de resultados, pois necessitávamos de pessoas para serem entrevistadas e, com o perfil de usuário que foi elicitado, isso não foi uma tarefa muito simples. As reuniões de alinhamento do grupo e as apresentações também se mostraram ações e tarefas difíceis diversas vezes, devido ao tamanho de algumas entregas, o que levou os membros do grupo a ficarem fadigados com algumas etapas e menos enérgicos nas entregas.
 
 #### **Gabriel Bertolazi**
 

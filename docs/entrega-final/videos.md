@@ -161,8 +161,23 @@ Artefato destinado a documentar e organizar todos os vídeos das apresentações
 
     Entrega final
 
-    
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bfRGtfxtzMw?si=QqQcIYfJ9ZQjdQDd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
 
+    <p style="text-align: center">
+        <a href="https://youtu.be/bfRGtfxtzMw?si=-twD8ojvTyry0cMd">Link para o vídeo</a>
+    </p>
+
+    Integrantes presentes na apresentação 8:
+
+    <label><input type="checkbox" checked disabled>[Cláudio Henrique][ClaudioGH]</label><br>
+    <label><input type="checkbox" checked disabled>[Danilo Cervalho][DaniloGH]</label><br>
+    <label><input type="checkbox" checked disabled>[Elias Faria][EliasGH]</label><br>
+    <label><input type="checkbox" checked disabled>[Gabriel Bertolazi][GabrielBGH]</label><br>
+    <label><input type="checkbox" checked disabled>[Gabriel Fernando][GabrielFGH]</label><br>
+    <label><input type="checkbox" checked disabled>[Pablo Santos][PabloGH]</label><br>
+    <label><input type="checkbox" checked disabled> [Ricardo Augusto][RicardoGH]</label><br>
 
 > 1. YouTube. Disponível em: [YouTube](https://www.youtube.com/). Acesso em: 08 de Abril de 2024.
 

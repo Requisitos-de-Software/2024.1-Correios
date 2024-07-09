@@ -25,6 +25,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Youtube](../assets/ferramentas_logo/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |   
     | ![Logo do Google Planilhas](../assets/ferramentas_logo/sheets.svg) | Google Planilhas | Produção de tabelas compartilhada para realização do heatmap. |
     | ![Logo do Draw.io](../assets/ferramentas_logo/drawio.png) | Draw.io | Produção do Rich Picture. |
+    | ![Logo do Figma](../assets/ferramentas_logo/figma.png) | Figma | Produção do rich picture. |
     | ![Markdown editor](../assets/ferramentas_logo/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
 
