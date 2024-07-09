@@ -103,6 +103,8 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | Gravação da apresentação | Início: 01/05    <br>Fim: 01/05 | Cláudio Henrique, Danilo Carvalho, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto | Início: 25/04 <br>Fim: 25/04 | Cláudio Henrique, Danilo, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto |
 | Correções pós apresentação |  | Cláudio Henrique, Danilo Carvalho, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto |  | Cláudio Henrique, Danilo Carvalho, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto |
 
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
 ## Entrega 3 - Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
 
 ### Planejado
